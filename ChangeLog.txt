@@ -1,6 +1,7 @@
 "Some Hard Days" by kERHUS v1.1.1r
 [Based on "Dead End Heaven" by TheNeru]
 *Makes the game difficult... In its own way...*
+!!!Need change Map or Difficulty!!!
 
 Taken from DEH:
 ~ Increased Plague Heart Health;
