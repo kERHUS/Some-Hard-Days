@@ -1,0 +1,47 @@
+"Some Hard Days" by kERHUS v1.1.1r
+[Based on "Dead End Heaven" by TheNeru]
+*Makes the game difficult... In its own way...*
+
+Taken from DEH:
+~ Increased Plague Heart Health;
+~ Plague Heart can spawn Special Infected when attacked (Bloater, Feral);
+~ Plague Heart has increased zombie spawn with nearly no cooldown;
+~ Plague Heart can spawn up to 2(*) Blood Ferals max;
+~ Blood Ferals take less headshots to kill;
+~ Increased Plague Heart cloud area;
+~ Plague Heart Burst and Cloud events now attract zombies;
+~ Altered Plague Heart Drops.
+ --- [Updated 06-13-20] ---
+~ Bloater Glands can now persist in main game and Heartland;
+~ Plague Busters can now persist in main game and Heartland;
+~ Plague Hearts can now drop Enhanced Plague Cure;
+~ Plague Hearts can now drop Scentblocks;
+~ Added several more guns in the Plague Heart drops.
+--- [Updated 06-28-20] ---
+~ Added crafting "Improved remedies for the bloody plague" and "improved bandages" in the medical center and hospital;
+~ 4 pockets are available by default.
+```   --- SHD ---
+- "AI limit fix" by rubyruby (integrated);
+- "FULL HOUSE" by Heilos (integrated);
+- Added Blood versions of Screamers, Bloaters, Ferals and Juggernauts. Now they spawn along with their standard version;
+- Decreased spawn of Juggernauts on each difficulty;
+- Nerfed hordes with a Juggernaut;
+- Increased screamer scream radius (like Nightmare);
+- Increased volume of zombie screams in the Normal and Dangerous zones (like Nightmare);
+- A horde of three Ferals now has one Blood Feral at the head (Nightmare);
+- A horde of three Bloaters now has one Blood Bloater at the head (Nightmare);
+- A horde of three Screamers now has one Blood Screamer at the head (Nightmare);
+- Revised Blood Bloater cloud (nerf plague infection half);
+- Revised infestations (buff relative to vanilla);
+- Scaling rebalance (0-8 Hero);
+- Revised Plague Heart resistance (closer to vanilla value);
+- Revised stacks of ammo, gas cans and repair kits;
+- More effective to gas can and repair kits.
+
+--- Scenario ---
+- Reduced depreciation of vehicles and weapons at all difficulties (half);
+- Fuel efficiency higher (+25%);
+- Reduced energy consumption for use melee weapons, evasion and running (by 20%);
+- Reduced the rate of fatigue on all difficulties;
+- Plague Hearts are hidden (not visible on the map) in the Normal and Dangerous zones (like Nightmare);
+- Increased the volume of the gunshot in the Normal and Dangerous zones to the level of Nightmare.
