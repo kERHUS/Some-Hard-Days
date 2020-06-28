@@ -28,8 +28,8 @@ Taken from DEH:
 - "FULL HOUSE" by Heilos (integrated);
 - Added Blood versions of Screamers, Bloaters, Ferals and Juggernauts. Now they spawn along with their standard version;
 - Decreased spawn of Juggernauts on each difficulty;
-- Nerfed hordes with a Juggernaut;
-- Increased screamer scream radius (like Nightmare);
+- Nerfed hordes with a Juggernauts;
+- Increased Screamer scream radius (like Nightmare);
 - Increased volume of zombie screams in the Normal and Dangerous zones (like Nightmare);
 - A horde of three Ferals now has one Blood Feral at the head (Nightmare);
 - A horde of three Bloaters now has one Blood Bloater at the head (Nightmare);
