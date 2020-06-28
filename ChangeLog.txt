@@ -19,8 +19,9 @@ Taken from DEH:
 ~ Plague Hearts can now drop Scentblocks;
 ~ Added several more guns in the Plague Heart drops.
 --- [Updated 06-28-20] ---
-~ Added crafting "Improved remedies for the bloody plague" and "improved bandages" in the medical center and hospital;
-~ 4 pockets are available by default.
+~ Can craft Enhanced Plague Cure with Infirmary 3 and Field Hospital;
+~ Can craft Enhanced Bandage;
+~ Survivors will now always start with 4 pockets.
 
 ===== SHD =====
 - "AI limit fix" by rubyruby (integrated);
@@ -37,8 +38,8 @@ Taken from DEH:
 - Revised infestations (buff relative to vanilla);
 - Scaling rebalance (0-8 Hero);
 - Revised Plague Heart resistance (closer to vanilla value);
-- Revised stacks of ammo, gas cans and repair kits;
-- More effective to gas can and repair kits.
+- Revised stacks of Ammo, Gas Cans and Repair Kits;
+- More effective to Gas Can and Repair Kits.
 
 --- Scenario ---
 - Reduced depreciation of vehicles and weapons at all difficulties (half);
