@@ -50,3 +50,6 @@ Taken from DEH:
 - Reduced the rate of fatigue on all difficulties;
 - Plague Hearts are hidden (not visible on the map) in the Normal and Dangerous zones (like Nightmare);
 - Increased the volume of the gunshot in the Normal and Dangerous zones to the level of Nightmare.
+
+PLANS:
+~ Shooting specializations rebalance;
