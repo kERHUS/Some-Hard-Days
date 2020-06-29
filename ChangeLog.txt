@@ -5,7 +5,8 @@ Makes the game difficult... In its own way...
 !!! NEED CHANGE MAP OR DIFFICULTY !!!
 !!!!! NOT AFFECTED IN GREENZONE !!!!!
 
-Taken from DEH:
+=====================================
+========== Taken from DEH ===========
 ~ Increased Plague Heart Health;
 ~ Plague Heart can spawn Special Infected when attacked (Bloater, Feral);
 ~ Plague Heart has increased zombie spawn with nearly no cooldown;
@@ -24,7 +25,8 @@ Taken from DEH:
 ~ Can craft "Enhanced Plague Cure" and "Enhanced Bandage" with Infirmary 3 and Field Hospital;
 ~ Survivors will now always start with 4 pockets.
 
-===== SHD =====
+=======================================
+================= SHD =================
 - "AI limit fix" by rubyruby (integrated);
 - "FULL HOUSE" by Heilos (integrated);
 - Added Blood versions of Screamers, Bloaters, Ferals and Juggernauts. Now they spawn along with their standard version;
@@ -41,8 +43,7 @@ Taken from DEH:
 - Revised Plague Heart resistance (closer to vanilla value);
 - Revised stacks of Ammo, Gas Cans and Repair Kits;
 - More effective to Gas Can and Repair Kits.
-
---- Scenario ---
+~~~~~ Scenario ~~~~~~
 - Reduced depreciation of vehicles and weapons at all difficulties (half);
 - Fuel efficiency higher (+25%);
 - Reduced energy consumption for use melee weapons, evasion and running (by 20%);
