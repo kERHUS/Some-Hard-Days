@@ -1,4 +1,4 @@
-"Some Hard Days" by kERHUS v1.1.1r
+"Some Hard Days" by kERHUS v1.1.2
 [Based on "Dead End Heaven" by TheNeru]
 Makes the game difficult... In its own way...
 
@@ -21,8 +21,7 @@ Taken from DEH:
 ~ Plague Hearts can now drop Scentblocks;
 ~ Added several more guns in the Plague Heart drops.
 --- [Updated 06-28-20] ---
-~ Can craft Enhanced Plague Cure with Infirmary 3 and Field Hospital;
-~ Can craft Enhanced Bandage;
+~ Can craft "Enhanced Plague Cure" and "Enhanced Bandage" with Infirmary 3 and Field Hospital;
 ~ Survivors will now always start with 4 pockets.
 
 ===== SHD =====
@@ -51,5 +50,15 @@ Taken from DEH:
 - Plague Hearts are hidden (not visible on the map) in the Normal and Dangerous zones (like Nightmare);
 - Increased the volume of the gunshot in the Normal and Dangerous zones to the level of Nightmare.
 
-PLANS:
+=======================================
+============= CHANGELOG ===============
+---28 june 2020 ---
+  - Release in Eng Discord Channel
+---29 june 2020 ---
+  - Fix issue with "Enhanced Bandage" (side DEH)
+
+=======================================
+============== PLANS ==================
 ~ Shooting specializations rebalance;
+~ Heavy Melee Rebalance;
+~ Hordes from Nightmare to other Difficulty.
