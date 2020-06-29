@@ -22,7 +22,7 @@ Makes the game difficult... In its own way...
 ~ Plague Hearts can now drop Scentblocks;
 ~ Added several more guns in the Plague Heart drops.
 --- [Updated 06-28-20] ---
-~ Can craft "Enhanced Plague Cure" and "Enhanced Bandage" with Infirmary 3 and Field Hospital;
+~ Can craft "Enhanced Plague Cure" and "Enhanced Bandage"(*) with Infirmary 3 and Field Hospital;
 ~ Survivors will now always start with 4 pockets.
 
 =======================================
