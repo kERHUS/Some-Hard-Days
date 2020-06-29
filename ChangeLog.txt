@@ -37,7 +37,7 @@ Makes the game difficult... In its own way...
 - A horde of three Ferals now has one Blood Feral at the head (Nightmare);
 - A horde of three Bloaters now has one Blood Bloater at the head (Nightmare);
 - A horde of three Screamers now has one Blood Screamer at the head (Nightmare);
-- Revised Blood Bloater cloud (nerf plague infection half);
+- Revised Blood Bloater cloud (nerf plague infection at half);
 - Revised infestations (buff relative to vanilla);
 - Scaling rebalance (0-8 Hero);
 - Revised Plague Heart resistance (closer to vanilla value);
