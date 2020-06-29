@@ -25,7 +25,7 @@ Makes the game difficult... In its own way...
 ~ Survivors will now always start with 4 pockets;
 ~ Embedded Altered Rucksacks [DEH Ver].
 --- [Updated 06-28-20] ---
-~ Can craft "Enhanced Plague Cure" and "Enhanced Bandage"(*) with Infirmary 3 and Field Hospital;
+~ Can craft "Enhanced Plague Cure" and "Enhanced Bandage"(*) with Infirmary 3 and Field Hospital.
 
 =======================================
 ================= SHD =================
