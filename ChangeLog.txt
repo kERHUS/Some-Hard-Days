@@ -52,14 +52,14 @@ Makes the game difficult... In its own way...
 - Increased the volume of the gunshot in the Normal and Dangerous zones to the level of Nightmare.
 
 =======================================
+============== PLANS ==================
+~ Shooting specializations rebalance;
+~ Heavy Melee Rebalance;
+~ Hordes from Nightmare to other Difficulty.
+
+=======================================
 ============= CHANGELOG ===============
 ---28 june 2020 ---
   - Release in Eng Discord Channel
 ---29 june 2020 ---
   - Fix issue with "Enhanced Bandage" (side DEH)
-
-=======================================
-============== PLANS ==================
-~ Shooting specializations rebalance;
-~ Heavy Melee Rebalance;
-~ Hordes from Nightmare to other Difficulty.
