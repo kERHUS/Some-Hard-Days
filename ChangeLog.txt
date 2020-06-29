@@ -29,6 +29,7 @@ Makes the game difficult... In its own way...
 ================= SHD =================
 - "AI limit fix" by rubyruby (integrated);
 - "FULL HOUSE" by Heilos (integrated);
+- More zombies population;
 - Added Blood versions of Screamers, Bloaters, Ferals and Juggernauts. Now they spawn along with their standard version;
 - Decreased spawn of Juggernauts on each difficulty;
 - Nerfed hordes with a Juggernauts;
