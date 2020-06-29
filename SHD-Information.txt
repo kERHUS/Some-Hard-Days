@@ -1,4 +1,4 @@
-"Some Hard Days" by kERHUS v1.1.2
+"Some Hard Days" by kERHUS v1.1.3
 [Based on "Dead End Heaven" by TheNeru]
 Makes the game difficult... In its own way...
 
@@ -63,6 +63,8 @@ Makes the game difficult... In its own way...
 =======================================
 ============= CHANGELOG ===============
 ---28 june 2020 ---
-  - Release in Eng Discord Channel
+  - Release in Eng Discord Channel.
 ---29 june 2020 ---
-  - Fix issue with "Enhanced Bandage" (side DEH)
+  - Fix issue with "Enhanced Bandage" (side DEH).
+---30 june 2020 ---
+  - Update for 396410.
