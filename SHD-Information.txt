@@ -47,13 +47,12 @@ Makes the game difficult... In its own way...
 - Revised stacks of Ammo, Gas Cans and Repair Kits;
 - More effective to Gas Can and Repair Kits.
 -------------------------------------------
-- Shooting specializations rebalance;
-
-- Heavy Melee Weapons Rebalance;
+- Shooting, Cardio and Wits specializations rebalance;
+- Heavy Melee Weapons rebalance (Durability++, Lethality+ etc).
 ~~~~~ Scenario ~~~~~~
-- Reduced depreciation of vehicles and weapons at all difficulties (half);
+- Reduced deterioration of vehicles and weapons at all difficulties (half);
 - Fuel efficiency higher (+25%);
-- Reduced energy consumption for use melee weapons, evasion and running (by 20%);
+- Reduced energy consumption for use melee weapons, evasion and running (15%);
 - Reduced the rate of fatigue on all difficulties;
 - Plague Hearts are hidden (not visible on the map) in the Normal and Dangerous zones (like Nightmare);
 - Increased the volume of the gunshot in the Normal and Dangerous zones to the level of Nightmare.
@@ -61,11 +60,13 @@ Makes the game difficult... In its own way...
 
 =======================================
 ============== PLANS ==================
+
 ~ Hordes from Nightmare to other Difficulty.
 
 
 =======================================
 ============= CHANGELOG ===============
+
 |||---28 june 2020 ---
   ~Release in Eng Discord Channel.
 
