@@ -1,4 +1,4 @@
-"Some Hard Days" by kERHUS v1.2.3
+"Some Hard Days" by kERHUS v1.2.4
 [Based on "Dead End Heaven" by TheNeru]
 Makes the game difficult... In its own way...
 
@@ -37,9 +37,10 @@ Makes the game difficult... In its own way...
 - Nerfed hordes with a Juggernauts;
 - Increased Screamer scream radius (like Nightmare);
 - Increased volume of zombie screams in the Normal and Dangerous zones (like Nightmare);
-- A horde of three Ferals now has one Blood Feral at the head (Nightmare);
-- A horde of three Bloaters now has one Blood Bloater at the head (Nightmare);
-- A horde of three Screamers now has one Blood Screamer at the head (Nightmare);
+- Added Feral Pack, Bloater Pod, Screamer Choir hordes on All Difficulty;
+- A horde of three Ferals now has one Blood Feral at the head;
+- A horde of three Bloaters now has one Blood Bloater at the head;
+- A horde of three Screamers now has one Blood Screamer at the head;
 - Revised Blood Bloater cloud (nerf plague infection at half);
 - Revised infestations (buff relative to vanilla);
 - Scaling rebalance (0-8 Hero);
@@ -61,8 +62,7 @@ Makes the game difficult... In its own way...
 
 =======================================
 ============== PLANS ==================
-
-~ Hordes from Nightmare to other Difficulty.
+N/A
 
 
 =======================================
@@ -131,4 +131,6 @@ Makes the game difficult... In its own way...
   - Firearm Dismemberment + 30% (extended to all 8 levels);
   - Firearm Knockdown +15% (at maximum level).
   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-  
+
+|||--- 02+ july 2020 ---
+  ~ Added Feral Pack, Bloater Pod, Screamer Choir hordes on All Difficulty.
