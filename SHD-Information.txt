@@ -1,4 +1,4 @@
-"Some Hard Days" by kERHUS v1.1.3
+"Some Hard Days" by kERHUS v1.1.4
 [Based on "Dead End Heaven" by TheNeru]
 Makes the game difficult... In its own way...
 
@@ -46,6 +46,10 @@ Makes the game difficult... In its own way...
 - Revised Plague Heart resistance (closer to vanilla value);
 - Revised stacks of Ammo, Gas Cans and Repair Kits;
 - More effective to Gas Can and Repair Kits.
+-------------------------------------------
+- Shooting specializations rebalance;
+
+- Heavy Melee Weapons Rebalance;
 ~~~~~ Scenario ~~~~~~
 - Reduced depreciation of vehicles and weapons at all difficulties (half);
 - Fuel efficiency higher (+25%);
@@ -54,28 +58,28 @@ Makes the game difficult... In its own way...
 - Plague Hearts are hidden (not visible on the map) in the Normal and Dangerous zones (like Nightmare);
 - Increased the volume of the gunshot in the Normal and Dangerous zones to the level of Nightmare.
 
+
 =======================================
 ============== PLANS ==================
-~ Shooting specializations rebalance;
-~ Heavy Melee Rebalance;
 ~ Hordes from Nightmare to other Difficulty.
+
 
 =======================================
 ============= CHANGELOG ===============
----28 june 2020 ---
+|||---28 june 2020 ---
   ~Release in Eng Discord Channel.
 
---- 29 june 2020 ---
+|||--- 29 june 2020 ---
   ~Fix issue with "Enhanced Bandage" (side DEH).
 
---- 30 june 2020 ---
+|||--- 30 june 2020 ---
   ~Update for 396410.
 
---- 02 july 2020 --- [NOT UPLOADED]
+|||--- 02 july 2020 --- [NOT UPLOADED]
   ~Reduced getting "Influence" from all sources (To make trading a more important part of the game);
-  ~Reduced "Influence" cost for travel to other base.
+  ~Reduced "Influence" cost for travel to other base;
   ~Rebalanced Heavy Melee Weapon.
-
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
   ~~~~~~~~~~ Skills rebalance ~~~~~~~~~~
 
   ~~~~~ Cardio -> ACROBATICS (GYMNASTICS, PROWESS):
@@ -121,3 +125,4 @@ Makes the game difficult... In its own way...
   - Firearm Impact + 30% (extended to all 8 levels);
   - Firearm Dismemberment + 30% (extended to all 8 levels);
   - Firearm Knockdown +15% (at maximum level).
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
