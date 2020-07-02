@@ -131,3 +131,4 @@ Makes the game difficult... In its own way...
   - Firearm Dismemberment + 30% (extended to all 8 levels);
   - Firearm Knockdown +15% (at maximum level).
   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  
