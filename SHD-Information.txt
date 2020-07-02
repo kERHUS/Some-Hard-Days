@@ -72,7 +72,8 @@ Makes the game difficult... In its own way...
   ~Update for 396410.
 
 --- 02 july 2020 --- [NOT UPLOADED]
-  ~Reduce getting "Influence" from killing (To make trading a more important part of the game);
+  ~Reduced getting "Influence" from all sources (To make trading a more important part of the game);
+  ~Reduced "Influence" cost for travel to other base.
   ~Rebalanced Heavy Melee Weapon.
 
   ~~~~~~~~~~ Skills rebalance ~~~~~~~~~~
@@ -80,5 +81,3 @@ Makes the game difficult... In its own way...
   -- Removed somersault (Dodge farther and faster [DODGE]) [somersault with a backpack - looool].
   ~~~~~ Wits -> SCOUTING (SCAVENGING, TACTICS, VIGILANCE):
   -- Removed "Enemy Detection Range".
-  ~~~~~ Wits -> STEALTH:
-  -- Removed "Enemy Sight Range".
