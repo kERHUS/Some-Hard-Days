@@ -3,7 +3,6 @@
 Makes the game difficult... In its own way...
 
 !!! NEED CHANGE MAP OR DIFFICULTY !!!
-!!!!! NOT AFFECTED IN GREENZONE !!!!!
 
 =====================================
 ========== Taken from DEH ===========
@@ -56,7 +55,8 @@ Makes the game difficult... In its own way...
 - Reduced energy consumption for use melee weapons, evasion and running (15%);
 - Reduced the rate of fatigue on all difficulties;
 - Plague Hearts are hidden (not visible on the map) in the Normal and Dangerous zones (like Nightmare);
-- Increased the volume of the gunshot in the Normal and Dangerous zones to the level of Nightmare.
+- Increased the volume of the gunshot in the Normal and Dangerous zones to the level of Nightmare;
+- Green Zone ambient spawn like Standard Zone.
 
 
 =======================================
@@ -80,6 +80,7 @@ Makes the game difficult... In its own way...
 |||--- 02 july 2020 --- [NOT UPLOADED]
   ~Reduced getting "Influence" from all sources (To make trading a more important part of the game);
   ~Reduced "Influence" cost for travel to other base;
+  ~ Green Zone ambient spawn like Standard Zone.
   ~Rebalanced Heavy Melee Weapon.
   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
   ~~~~~~~~~~ Skills rebalance ~~~~~~~~~~
