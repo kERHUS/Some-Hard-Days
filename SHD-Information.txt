@@ -69,21 +69,21 @@ Makes the game difficult... In its own way...
 ============= CHANGELOG ===============
 
 |||---28 june 2020 ---
-  ~Release in Eng Discord Channel.
+  ~ Release in Eng Discord Channel.
 
 |||--- 29 june 2020 ---
-  ~Fix issue with "Enhanced Bandage" (side DEH).
+  ~ Fix issue with "Enhanced Bandage" (side DEH).
 
 |||--- 30 june 2020 ---
-  ~Update for 396410.
+  ~ Update for 396410.
 
 |||--- 02 july 2020 --- [NOT UPLOADED]
-  ~Reduced getting "Influence" from all sources (To make trading a more important part of the game);
-  ~Reduced "Influence" cost for travel to other base;
-  ~"Standing" rebalance due with change in "Influence" system;
-  ~"Multiplayer Rewards" rebalance due with change in "Influence" system;
-  ~Green Zone ambient spawn like Standard Zone.
-  ~Rebalanced Heavy Melee Weapon.
+  ~ Reduced getting "Influence" from all sources (To make trading a more important part of the game);
+  ~ Reduced "Influence" cost for travel to other base;
+  ~ "Standing" rebalance due with change in "Influence" system;
+  ~ "Multiplayer Rewards" rebalance due with change in "Influence" system;
+  ~ Green Zone ambient spawns like at Standard Zone.
+  ~ Rebalanced Heavy Melee Weapon.
   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
   ~~~~~~~~~~ Skills rebalance ~~~~~~~~~~
 
