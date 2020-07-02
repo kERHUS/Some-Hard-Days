@@ -88,7 +88,7 @@ Makes the game difficult... In its own way...
   ~~~~~~~~~~ Skills rebalance ~~~~~~~~~~
 
   ~~~~~ Cardio -> ACROBATICS (GYMNASTICS, PROWESS):
-  - Removed somersault (Dodge farther and faster [DODGE]) [somersault with a backpack - looool].
+  - Removed flip (Dodge farther and faster [DODGE]) [flip with a backpack - looool].
 
   ~~~~~ Wits -> SCOUTING (SCAVENGING, TACTICS, VIGILANCE):
   - Removed "Enemy Detection Range".
