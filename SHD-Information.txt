@@ -1,4 +1,4 @@
-"Some Hard Days" by kERHUS v1.1.4
+"Some Hard Days" by kERHUS v1.3.4
 [Based on "Dead End Heaven" by TheNeru]
 Makes the game difficult... In its own way...
 
@@ -23,6 +23,7 @@ Makes the game difficult... In its own way...
 ~ Added several more guns in the Plague Heart drops.
 --- [Updated 06-22-20] ---
 ~ Survivors will now always start with 4 pockets;
+~ Time to recover from fatigue reduced;
 ~ Embedded Altered Rucksacks [DEH Ver].
 --- [Updated 06-28-20] ---
 ~ Can craft "Enhanced Plague Cure" and "Enhanced Bandage"(*) with Infirmary 3 and Field Hospital.
