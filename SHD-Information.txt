@@ -77,7 +77,47 @@ Makes the game difficult... In its own way...
   ~Rebalanced Heavy Melee Weapon.
 
   ~~~~~~~~~~ Skills rebalance ~~~~~~~~~~
+
   ~~~~~ Cardio -> ACROBATICS (GYMNASTICS, PROWESS):
-  -- Removed somersault (Dodge farther and faster [DODGE]) [somersault with a backpack - looool].
+  - Removed somersault (Dodge farther and faster [DODGE]) [somersault with a backpack - looool].
+
   ~~~~~ Wits -> SCOUTING (SCAVENGING, TACTICS, VIGILANCE):
-  -- Removed "Enemy Detection Range".
+  - Removed "Enemy Detection Range".
+
+  \\\\\ Shooting Skills \\\\\
+  — "Reload Speed" has been replaced by "Reload Time" for better perception 
+    ("+50% Reload Speed" = "-33% Reload Time" in the vanila version);
+  — The maximum value of "Reload Time" = -40% for all shooting specializations 
+    (buff +7%, but nerf for Gunslinging).
+  — Removed: Autoaim (Gunslinging), Penetrate All Enemy (Sharpshooting), 
+    ASSAULT Firearm Knockdown replace to Impact.
+
+  -— GUNSLINGING (max) —-
+  - A kick when aiming (like Assult perk);
+  - Reload Time -40%;
+  - Firearm Sway -40%;
+  - Firearm Recoil -40%;
+  - Firearm Knockdown +15% (at maximum level).
+
+  -— SHARPSHOOTING (max) —-
+  - A kick when aiming (like Assult perk);
+  - Reload Time -40%;
+  - Firearm Sway -50%;
+  - Firearm Recoil -25%;
+  - Firearm Dismemberment + 30% (extended to all 8 levels).
+
+  -– ASSAULT (max) —-
+  - A kick when aiming;
+  - Reload Time -40%;
+  - Firearm Sway -25%;
+  - Firearm Recoil -50%;
+  - Firearm Impact + 30% (extended to all 8 levels).
+
+  -— WARFIGHTING (max) —-
+  - A kick when aiming (like Assult perk);
+  - Reload Time -40%;
+  - Firearm Sway -50%;
+  - Firearm Recoil -50%;
+  - Firearm Impact + 30% (extended to all 8 levels);
+  - Firearm Dismemberment + 30% (extended to all 8 levels);
+  - Firearm Knockdown +15% (at maximum level).
