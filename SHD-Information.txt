@@ -71,7 +71,7 @@ Makes the game difficult... In its own way...
 --- 30 june 2020 ---
   ~Update for 396410.
 
---- 02 july 2020 ---
+--- 02 july 2020 --- [NOT UPLOADED]
   ~Reduce getting "Influence" from killing (To make trading a more important part of the game);
   ~Rebalanced Heavy Melee Weapon.
 
