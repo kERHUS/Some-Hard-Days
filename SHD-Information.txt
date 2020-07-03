@@ -70,8 +70,8 @@ Makes the game difficult... In its own way...
 =======================================
 ============== PLANS ==================
 
-- Vehicle Loudness increase (+40%); (done, not uploaded)
-- More incoming damage;
+- Vehicle Loudness increase (+40%); [done, not uploaded]
+- More incoming damage (Up +10%, nerf for AI -60%); [done, not uploaded]
 - Scaling rebalance;
 - Fatigue rebalane.
 
