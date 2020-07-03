@@ -4,8 +4,8 @@ Makes the game difficult... In its own way...
 
 !!! NEED CHANGE MAP OR DIFFICULTY !!!
 
-=====================================
-========== Taken from DEH ===========
+=======================================
+=========== Taken from DEH ============
 ~ Increased Plague Heart Health;
 ~ Plague Heart can spawn Special Infected when attacked (Bloater, Feral);
 ~ Plague Heart has increased zombie spawn with nearly no cooldown;
@@ -50,21 +50,27 @@ Makes the game difficult... In its own way...
 - More effective to Gas Can and Repair Kits.
 - Shooting, Cardio and Wits specializations rebalance;
 - Heavy Melee Weapons rebalance (Durability++, Lethality++, etc);
-- "Influence" rebalance;
 - The trunk of vehicles is tripled.
-~~~~~ Scenario ~~~~~~
-- Reduced deterioration of vehicles and weapons at all difficulties (half);
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~ Scenario ~~~~~~~~~~~~~~~
+- Reduced deterioration of vehicles and weapons in all difficulties (at half);
 - Fuel efficiency higher (+25%);
-- Reduced energy consumption for use melee weapons, evasion and running (15%);
+- Reduced energy consumption for use melee weapons, evasion and running (-15%);
 - Reduced the rate of fatigue on all difficulties;
 - Plague Hearts are hidden (not visible on the map) in the Normal and Dangerous zones (like Nightmare);
 - Increased the volume of the gunshot in the Normal and Dangerous zones to the level of Nightmare;
 - Green Zone ambient spawn like Standard Zone.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~ "Influence" Rebalance ~~~~~~~~
+- Reduced getting "Influence" from all sources (-80%) [to make trading a more important part of the game];
+- Reduced "Influence" cost for travel to other base;
+- "Standing" rebalance due with change in "Influence" system;
+- "Multiplayer Rewards" rebalance due with change in "Influence" system.
 
 =======================================
 ============== PLANS ==================
 
-- Vehicle Loudness increase (+50%); (done, not uploaded)
+- Vehicle Loudness increase (+40%); (done, not uploaded)
 - More incoming damage;
 - Scaling rebalance;
 - Fatigue rebalane.
