@@ -67,17 +67,22 @@ Makes the game difficult... In its own way...
 - "Standing" rebalance due with change in "Influence" system;
 - "Multiplayer Rewards" rebalance due with change in "Influence" system.
 
-=======================================
-============== PLANS ==================
+|=======================================|
+|=======================================|
+|============== PLANS ==================|
 
-- Vehicle Loudness increase (+40%); [done, not uploaded]
-- More incoming damage (Up +10%, nerf for AI -60%); [done, not uploaded]
+- Vehicle Loudness increase (+40%);                     [done, not uploaded]
+- AI-controlled Сharacters take reduced damage (-50%);  [done, not uploaded]
+- Player-controlled Сharacters take increased damage:
+    Green Zone -45% => 0%, Stadart Zone 0% => 20%, 
+    Dread Zone 30% => 40%, Nightmare Zone 50% => 60%
+                Vanila => Moded Value;                  [done, not uploaded]
 - Scaling rebalance;
 - Fatigue rebalane.
 
-
-=======================================
-============= CHANGELOG ===============
+|=======================================|
+|=======================================|
+|============= CHANGELOG ===============|
 
 |||---28 june 2020 ---
   ~ Release in Eng Discord Channel.
