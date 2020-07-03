@@ -50,7 +50,7 @@ Makes the game difficult... In its own way...
 - More effective to Gas Can and Repair Kits.
 - Shooting, Cardio and Wits specializations rebalance;
 - Heavy Melee Weapons rebalance (Durability++, Lethality++, etc);
-- "Influence" rebalance.
+- "Influence" rebalance;
 - The trunk of vehicles is tripled.
 ~~~~~ Scenario ~~~~~~
 - Reduced deterioration of vehicles and weapons at all difficulties (half);
@@ -88,7 +88,7 @@ Makes the game difficult... In its own way...
   ~ Reduced "Influence" cost for travel to other base;
   ~ "Standing" rebalance due with change in "Influence" system;
   ~ "Multiplayer Rewards" rebalance due with change in "Influence" system;
-  ~ Green Zone ambient spawns like at Standard Zone.
+  ~ Green Zone ambient spawns like at Standard Zone;
   ~ Rebalanced Heavy Melee Weapon.
   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
   ~~~~~~~~~~ Skills rebalance ~~~~~~~~~~
@@ -119,22 +119,22 @@ Makes the game difficult... In its own way...
   - Reload Time -40%;
   - Firearm Sway -50%;
   - Firearm Recoil -25%;
-  - Firearm Dismemberment + 30% (extended to all 8 levels).
+  - Firearm Dismemberment +30% (extended to all 8 levels).
 
   -– ASSAULT (max) —-
   - A kick when aiming;
   - Reload Time -40%;
   - Firearm Sway -25%;
   - Firearm Recoil -50%;
-  - Firearm Impact + 30% (extended to all 8 levels).
+  - Firearm Impact +30% (extended to all 8 levels).
 
   -— WARFIGHTING (max) —-
   - A kick when aiming (like Assult perk);
   - Reload Time -40%;
   - Firearm Sway -50%;
   - Firearm Recoil -50%;
-  - Firearm Impact + 30% (extended to all 8 levels);
-  - Firearm Dismemberment + 30% (extended to all 8 levels);
+  - Firearm Impact +30% (extended to all 8 levels);
+  - Firearm Dismemberment +30% (extended to all 8 levels);
   - Firearm Knockdown +15% (at maximum level).
   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
   + Added Feral Pack, Bloater Pod, Screamer Choir hordes on All Difficulty.
