@@ -152,8 +152,10 @@ Makes the game difficult... In its own way...
   ~ "Shifted Day light - 18day 6night" by SerDeliac (integrated);
   ~ The trunk of vehicles is tripled;
   + Small Fixes.
-  ++ Vehicle Loudness increase (+40%);
-  ++ AI-controlled Сharacters take reduced damage (-50%);
-  ++ Player-controlled Сharacters take increased damage:
-       Green Zone -45% => 0%, Stadart Zone 0% => 20%, 
-       Dread Zone 30% => 40%, Nightmare Zone 50% => 60%.
+ 
+|||--- 04 july 2020 ---
+  - Vehicle Loudness increase (+40%);
+  - AI-controlled Сharacters take reduced damage (-50%);
+  - Player-controlled Сharacters take increased damage:
+     Green Zone -45% => 0%, Stadart Zone 0% => 20%, 
+     Dread Zone 30% => 40%, Nightmare Zone 50% => 60%.
