@@ -61,14 +61,13 @@ Makes the game difficult... In its own way...
 - Increased the volume of the gunshot in the Normal and Dangerous zones to the level of Nightmare;
 - Green Zone ambient spawn like Standard Zone.
 
-
 =======================================
 ============== PLANS ==================
 
--Car loudness increase;
--More incoming damage;
--Scaling rebalance;
--Fatigue rebalane.
+- Car loudness increase +50%; (done, not uploaded)
+- More incoming damage;
+- Scaling rebalance;
+- Fatigue rebalane.
 
 
 =======================================
@@ -140,6 +139,6 @@ Makes the game difficult... In its own way...
   + Added Feral Pack, Bloater Pod, Screamer Choir hordes on All Difficulty.
 
 |||--- 03 july 2020 ---
-  - "Shifted Day light - 18day 6night" by SerDeliac (integrated);
-  - The trunk of vehicles is tripled;
+  ~ "Shifted Day light - 18day 6night" by SerDeliac (integrated);
+  ~ The trunk of vehicles is tripled;
   + Small Fixes.
