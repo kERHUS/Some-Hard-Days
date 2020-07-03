@@ -64,7 +64,11 @@ Makes the game difficult... In its own way...
 
 =======================================
 ============== PLANS ==================
-N/A
+
+-Car loudness increase;
+-More incoming damage;
+-Scaling rebalance;
+-Fatigue rebalane.
 
 
 =======================================
