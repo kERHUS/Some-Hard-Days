@@ -1,4 +1,4 @@
-"Some Hard Days" by kERHUS v1.2.4
+"Some Hard Days" by kERHUS v1.2.5
 [Based on "Dead End Heaven" by TheNeru]
 Makes the game difficult... In its own way...
 
@@ -31,6 +31,7 @@ Makes the game difficult... In its own way...
 ================= SHD =================
 - "AI limit fix" by rubyruby (integrated);
 - "FULL HOUSE" by Heilos (integrated);
+- "Shifted Day light - 18day 6night" by SarDeliac (integrated);
 - More zombies population;
 - Added Blood versions of Screamers, Bloaters, Ferals and Juggernauts. Now they spawn along with their standard version;
 - Decreased spawn of Juggernauts on each difficulty;
@@ -50,6 +51,7 @@ Makes the game difficult... In its own way...
 - Shooting, Cardio and Wits specializations rebalance;
 - Heavy Melee Weapons rebalance (Durability++, Lethality++, etc);
 - "Influence" rebalance.
+- The trunk of vehicles is tripled.
 ~~~~~ Scenario ~~~~~~
 - Reduced deterioration of vehicles and weapons at all difficulties (half);
 - Fuel efficiency higher (+25%);
@@ -134,3 +136,7 @@ N/A
 
 |||--- 02+ july 2020 ---
   ~ Added Feral Pack, Bloater Pod, Screamer Choir hordes on All Difficulty.
+
+|||--- 03 july 2020 ---
+  ~ "Shifted Day light - 18day 6night" by SerDeliac (integrated);
+  ~ The trunk of vehicles is tripled.
