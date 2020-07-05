@@ -163,5 +163,5 @@ N\A
      Dread Zone +30% => +40%, Nightmare Zone +50% => +60%;
   ~ +4 Beds ("Changing of the Guard" buff);
   ~ Scaling rebalance. Narrowed the minimum and maximum number of pawns: 
-      More zombies at the start;
-      Slightly less at maximum difficulty.
+     More zombies at the start;
+     Slightly less at maximum community standing.
