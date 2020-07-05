@@ -59,7 +59,7 @@ Makes the game difficult... In its own way...
 - Plague Hearts are hidden (not visible on the map) on each difficulty (like Nightmare);
 - Increased the volume of the gunshot on each difficulty (like Nightmare);
 - Green Zone ambient spawn like Standart Zone;
-- +4 Beds ("Changing of the Guard" buff)
+- +4 Beds ("Changing of the Guard" buff);
 - Vehicle Loudness increase (+50%);
 - AI-controlled Сharacters take reduced damage (-60%);
 - Player-controlled Сharacters take increased damage:
@@ -155,10 +155,10 @@ N\A
 ///--- ?? july 2020 --- (NOT UPLOADED)
   ~ REMOVED: "Reduced energy consumption for use melee weapons, evasion and running";
   ~ REMOVED: Craft "Enhanced Bandage";
-  ~ Rebalance of "Enhanced Plague Cure" craft (water and knowledge of pharmacology required)
+  ~ Rebalance of "Enhanced Plague Cure" craft (water and knowledge of pharmacology required);
   ~ Vehicle Loudness increase (+50%);
   ~ AI-controlled Сharacters take reduced damage (-60%);
   ~ Player-controlled Сharacters take increased damage:
      Green Zone -45% => -20%, Stadart Zone 0% => +10%,
      Dread Zone +30% => +40%, Nightmare Zone +50% => +60%;
-  ~ +4 Beds ("Changing of the Guard" buff)
+  ~ +4 Beds ("Changing of the Guard" buff).
