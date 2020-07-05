@@ -161,4 +161,4 @@ N\A
   ~ Player-controlled Сharacters take increased damage:
      Green Zone -45% => -20%, Stadart Zone 0% => +10%,
      Dread Zone +30% => +40%, Nightmare Zone +50% => +60%;
-  ~ +4 Beds ("Changing of the Guard" buff).
+  ~ +4 Beds ("Changing of the Guard" buff). 
