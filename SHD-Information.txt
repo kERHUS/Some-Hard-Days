@@ -25,7 +25,7 @@ Makes the game difficult... In its own way...
 ~ Time to recover from fatigue reduced;
 ~ Embedded Altered Rucksacks [DEH Ver].
 --- [Updated 06-28-20] ---
-~ Can craft "Enhanced Plague Cure" and "Enhanced Bandage"(*) with Infirmary 3 and Field Hospital.
+~ Can craft "Enhanced Plague Cure" with Infirmary 3 and Field Hospital.
 
 =======================================
 ================= SHD =================
@@ -63,8 +63,8 @@ Makes the game difficult... In its own way...
 - Vehicle Loudness increase (+50%);
 - AI-controlled Сharacters take reduced damage (-60%);
 - Player-controlled Сharacters take increased damage:
-     Green Zone -45% => 0%, Stadart Zone 0% => +50%,
-     Dread Zone +30% => +90%, Nightmare Zone +50% => +120%.
+     Green Zone -45% => ?%, Stadart Zone 0% => +?%,
+     Dread Zone +30% => +?%, Nightmare Zone +50% => +?%.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ~~~~~~~~ "Influence" Rebalance ~~~~~~~~
 - Reduced getting "Influence" from all sources (-80%) [to make trading a more important part of the game];
@@ -154,7 +154,9 @@ Makes the game difficult... In its own way...
   + Small Fixes.
 
 ///--- ?? july 2020 --- (NOT UPLOADED)
-  ~ "Reduced energy consumption for use melee weapons, evasion and running" REMOVED;
+  ~ REMOVED: "Reduced energy consumption for use melee weapons, evasion and running";
+  ~ REMOVED: Craft "Enhanced Bandage";
+  ~ Rebalance of "Enhanced Plague Cure" craft (
   ~ Vehicle Loudness increase (+50%);
   ~ AI-controlled Сharacters take reduced damage (-60%);
   ~ Player-controlled Сharacters take increased damage:
