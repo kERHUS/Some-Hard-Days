@@ -1,4 +1,4 @@
-"Some Hard Days" by kERHUS v1.2.6
+"Some Hard Days" by kERHUS v1.2.6 (1.3.7 work in progress)
 [Based on "Dead End Heaven" by TheNeru]
 Makes the game difficult... In its own way...
 
@@ -37,13 +37,13 @@ Makes the game difficult... In its own way...
 - Decreased spawn of Juggernauts on each difficulty;
 - Nerfed hordes with a Juggernauts;
 - Increased Screamer scream radius (like Nightmare);
-- Increased volume of zombie screams in the Normal and Dangerous zones (like Nightmare);
-- Added Feral Pack, Bloater Pod, Screamer Choir hordes on All Difficulty;
+- Increased volume of zombie screams on each difficulty (like Nightmare);
+- Added Feral Pack, Bloater Pod, Screamer Choir hordes on each difficulty;
 - A horde of three Ferals now has one Blood Feral at the head;
 - A horde of three Bloaters now has one Blood Bloater at the head;
 - A horde of three Screamers now has one Blood Screamer at the head;
 - Revised Blood Bloater cloud (nerf plague infection at half);
-- Revised infestations (buff relative to vanilla);
+- Revised Infestations (buff relative to vanilla);
 - Scaling rebalance (0-8 Hero);
 - Revised Plague Heart resistance (closer to vanilla value);
 - Revised stacks of Ammo, Gas Cans and Repair Kits;
@@ -53,18 +53,18 @@ Makes the game difficult... In its own way...
 - The trunk of vehicles is tripled.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ~~~~~~~~~~~~~~ Scenario ~~~~~~~~~~~~~~~
-- Reduced deterioration of vehicles and weapons in all difficulties (at half);
-- Fuel efficiency higher (+25%);
-- Reduced energy consumption for use melee weapons, evasion and running (-15%);
-- Reduced the rate of fatigue on all difficulties;
-- Plague Hearts are hidden (not visible on the map) in the Normal and Dangerous zones (like Nightmare);
-- Increased the volume of the gunshot in the Normal and Dangerous zones to the level of Nightmare;
-- Green Zone ambient spawn like Standard Zone;
-- Vehicle Loudness increase (+40%);
-- AI-controlled Сharacters take reduced damage (-50%);
+- Reduced deterioration of vehicles and weapons on each difficulty (like Green Zone);
+- Fuel efficiency higher (like Green Zone);
+- Reduced the rate of fatigue on all difficulties (like Green Zone);
+- Plague Hearts are hidden (not visible on the map) on each difficulty (like Nightmare);
+- Increased the volume of the gunshot on each difficulty (like Nightmare);
+- Green Zone ambient spawn like Standart Zone;
+- +4 Beds ("Changing of the Guard" buff)
+- Vehicle Loudness increase (+50%);
+- AI-controlled Сharacters take reduced damage (-60%);
 - Player-controlled Сharacters take increased damage:
-    Green Zone -45% => 0%, Stadart Zone 0% => 20%, 
-    Dread Zone 30% => 40%, Nightmare Zone 50% => 60%.
+     Green Zone -45% => 0%, Stadart Zone 0% => +50%,
+     Dread Zone +30% => +90%, Nightmare Zone +50% => +120%.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ~~~~~~~~ "Influence" Rebalance ~~~~~~~~
 - Reduced getting "Influence" from all sources (-80%) [to make trading a more important part of the game];
@@ -97,7 +97,7 @@ Makes the game difficult... In its own way...
   ~ Reduced "Influence" cost for travel to other base;
   ~ "Standing" rebalance due with change in "Influence" system;
   ~ "Multiplayer Rewards" rebalance due with change in "Influence" system;
-  ~ Green Zone ambient spawns like at Standard Zone;
+  ~ Green Zone ambient spawns like at Standart Zone;
   ~ Rebalanced Heavy Melee Weapon.
   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
   ~~~~~~~~~~ Skills rebalance ~~~~~~~~~~
@@ -152,10 +152,12 @@ Makes the game difficult... In its own way...
   ~ "Shifted Day light - 18day 6night" by SerDeliac (integrated);
   ~ The trunk of vehicles is tripled;
   + Small Fixes.
- 
-|||--- 04 july 2020 ---
-  ~ Vehicle Loudness increase (+40%);
-  ~ AI-controlled Сharacters take reduced damage (-50%);
+
+///--- ?? july 2020 --- (NOT UPLOADED)
+  ~ "Reduced energy consumption for use melee weapons, evasion and running" REMOVED;
+  ~ Vehicle Loudness increase (+50%);
+  ~ AI-controlled Сharacters take reduced damage (-60%);
   ~ Player-controlled Сharacters take increased damage:
-     Green Zone -45% => 0%, Stadart Zone 0% => 20%, 
-     Dread Zone 30% => 40%, Nightmare Zone 50% => 60%.
+     Green Zone -45% => 0%, Standart Zone 0% => 50%,
+     Dread Zone 30% => 90%, Nightmare Zone 50% => 120%;
+  ~ +4 Beds ("Changing of the Guard" buff)
