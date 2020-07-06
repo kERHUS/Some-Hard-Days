@@ -147,7 +147,6 @@ N/A
   + Small Fixes.
 
 |||--- 06 july 2020 ---
-  ~ REMOVED: "Reduced energy consumption for use melee weapons, evasion and running";
   ~ REMOVED: Craft "Enhanced Bandage";
   ~ "Skip Intro" by kERHUS integrated;
   ~ Rebalance of "Enhanced Plague Cure" craft (water and knowledge of pharmacology required);
@@ -159,11 +158,12 @@ N/A
   ~ +4 Beds ("Changing of the Guard" buff);
 
 |||--- ?? july 2020 ---
-  ~ Plague Hearth rebalance (HP/Resist);
-  ~ Scaling rebalance;
-  ~ Trading rebalance;
-  ~ Zeds\Freaks Population rebalance;
+  ~ Plague Hearth rebalanced (HP/Resist);
+  ~ Scaling rebalanced;
+  ~ Trading rebalanced;
+  ~ Zeds\Freaks Population rebalanced;
   ~ Zeds scream chance reduced;
-  ~ Crouch Sprinting available regardless of skill (DEH side);
-  ~ Infestation rebalance.
-  ~ Debuff to construction cost rebalance;
+  ~ Infestation rebalanced;
+  ~ Debuff to construction cost removed;
+  ~ Energy Consumption for use melee weapons, finisher move and running reduced;
+  ~ Crouch Sprinting available regardless of skill (DEH side).
