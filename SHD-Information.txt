@@ -161,10 +161,10 @@ N/A
 |||--- ?? july 2020 --- [NOT UPLOADED, WORK IN PROGRESS]
   ~ Plague Hearth rebalanced (HP/Resist);
   ~ Scaling rebalanced;
-  ~ Trading rebalanced;
+  ~ Trading price rebalanced;
   ~ Zeds\Freaks Population rebalanced;
-  ~ Zeds scream chance reduced;
   ~ Infestation rebalanced;
++  ~ Zeds scream chance and loudness reduced;
 +  ~ Debuff to construction cost on each difficulty (like Dread Zone); 
 +  ~ Energy Consumption for use melee weapons, finisher move and running reduced (-15-20%);
 +  ~ Crouch Sprinting available regardless of skill (DEH side).
