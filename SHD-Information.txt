@@ -160,7 +160,7 @@ N/A
 
 |||--- ?? july 2020 --- [NOT UPLOADED, WORK IN PROGRESS]
   ~ Plague Hearth rebalanced (HP/Resist);
-  ~ Infestation rebalanced;
++  ~ Infestation rebalanced;
 +  ~ Scaling rebalanced;
 +  ~ Zeds\Freaks Population rebalanced;
 +  ~ Trading prices slightly rebalanced;
