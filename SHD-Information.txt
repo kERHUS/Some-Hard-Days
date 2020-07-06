@@ -32,7 +32,8 @@ Makes the game difficult... In its own way...
 - "Shifted Day light - 18day 6night" by SarDeliac (integrated);
 - "Skip Intro" by kERHUS (integrated);
 - The amount of Ambient Zombies spawned increased;
-- Added Blood versions of Screamers, Bloaters, Ferals and Juggernauts. Now they spawn along with their standard version;
+- Added Blood versions of Screamers, Bloaters, Ferals and Juggernauts. 
+   Now they spawn along with their standard version;
 - Decreased spawn of Juggernauts on each difficulty;
 - Nerfed hordes with a Juggernauts;
 - Screamer scream radius increased (like Nightmare);
@@ -51,7 +52,7 @@ Makes the game difficult... In its own way...
 - Fuel Efficiency higher (like Green Zone);
 - Reduced the rate of Fatigue on all difficulties (like Green Zone);
 - Plague Hearts are hidden (not visible on the map) on each difficulty (like Nightmare);
-- Increased the volume of the gunshot on each difficulty (like Nightmare);
+- Increased the volume of the gunshot on Standart and Dread zone (like Nightmare);
 - Green Zone ambient spawn like Standart Zone;
 - +4 Beds (~"Changing of the Guard" buff~);
 - Vehicle Loudness increase (+50%);
