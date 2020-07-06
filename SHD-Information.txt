@@ -164,6 +164,6 @@ N/A
   ~ Zeds\Freaks Population rebalanced;
   ~ Zeds scream chance reduced;
   ~ Infestation rebalanced;
-  ~ Debuff to construction cost on each difficulty (like Dread Zone);
-  ~ Energy Consumption for use melee weapons, finisher move and running reduced;
-  ~ Crouch Sprinting available regardless of skill (DEH side).
++  ~ Debuff to construction cost on each difficulty (like Dread Zone); 
++  ~ Energy Consumption for use melee weapons, finisher move and running reduced (-15-20%);
++  ~ Crouch Sprinting available regardless of skill (DEH side).
