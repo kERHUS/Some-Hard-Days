@@ -6,12 +6,10 @@ Makes the game difficult... In its own way...
 
 =======================================
 =========== Taken from DEH ============
-~ Increased Plague Heart Health;
 ~ Plague Heart can spawn Special Infected when attacked (Bloater, Feral);
-~ Plague Heart has increased zombie spawn with nearly no cooldown;
-~ Plague Heart can spawn up to 2(*) Blood Ferals max;
+~ Plague Heart can spawn up to 2 Blood Ferals max(*);
 ~ Blood Ferals take less headshots to kill;
-~ Increased Plague Heart cloud area;
+~ Increased Plague Heart Cloud area;
 ~ Plague Heart Burst and Cloud events now attract zombies;
 ~ Altered Plague Heart Drops.
  --- [Updated 06-13-20] ---
@@ -32,30 +30,26 @@ Makes the game difficult... In its own way...
 - "AI limit fix" by rubyruby (integrated);
 - "FULL HOUSE" by Heilos (integrated);
 - "Shifted Day light - 18day 6night" by SarDeliac (integrated);
-- More zombies population;
+- "Skip Intro" by kERHUS (integrated);
+- The amount of Ambient Zombies spawned increased;
 - Added Blood versions of Screamers, Bloaters, Ferals and Juggernauts. Now they spawn along with their standard version;
 - Decreased spawn of Juggernauts on each difficulty;
 - Nerfed hordes with a Juggernauts;
-- Increased Screamer scream radius (like Nightmare);
-- Increased volume of zombie screams on each difficulty (like Nightmare);
+- Screamer scream radius increased (like Nightmare);
+- Volume of zombie screams increased on each difficulty (like Nightmare);
 - Added Feral Pack, Bloater Pod, Screamer Choir hordes on each difficulty;
-- A horde of three Ferals now has one Blood Feral at the head;
-- A horde of three Bloaters now has one Blood Bloater at the head;
-- A horde of three Screamers now has one Blood Screamer at the head;
+- A horde of three Freaks now has one Freak Blood version at the head;
 - Revised Blood Bloater cloud (nerf plague infection at half);
-- Revised Infestations (buff relative to vanilla);
-- Scaling rebalance (0-8 Hero);
-- Revised Plague Heart resistance (closer to vanilla value);
 - Revised stacks of Ammo, Gas Cans and Repair Kits;
 - More effective to Gas Can and Repair Kits;
 - Shooting, Cardio and Wits specializations rebalance;
 - Heavy Melee Weapons rebalance (Durability++, Lethality++, etc);
-- The trunk of vehicles is tripled.
+- The trunk of Vehicles is tripled.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ~~~~~~~~~~~~~~ Scenario ~~~~~~~~~~~~~~~
 - Reduced deterioration of vehicles and weapons on each difficulty (like Green Zone);
-- Fuel efficiency higher (like Green Zone);
-- Reduced the rate of fatigue on all difficulties (like Green Zone);
+- Fuel Efficiency higher (like Green Zone);
+- Reduced the rate of Fatigue on all difficulties (like Green Zone);
 - Plague Hearts are hidden (not visible on the map) on each difficulty (like Nightmare);
 - Increased the volume of the gunshot on each difficulty (like Nightmare);
 - Green Zone ambient spawn like Standart Zone;
@@ -64,7 +58,7 @@ Makes the game difficult... In its own way...
 - AI-controlled Сharacters take reduced damage (-60%);
 - Player-controlled Сharacters take increased damage:
      Green Zone -45% => -20%, Stadart Zone 0% => +10%,
-     Dread Zone +30% => +40%, Nightmare Zone +50% => +60%.
+     Dread Zone +30% => +40%, Nightmare Zone +50% => +70%.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ~~~~~~~~ "Influence" Rebalance ~~~~~~~~
 - Reduced getting "Influence" from all sources (-80%) [to make trading a more important part of the game];
@@ -76,7 +70,7 @@ Makes the game difficult... In its own way...
 |=======================================|
 |============== PLANS ==================|
 
-Plague Hearth rebalance (HP/Resist)
+N/A
 
 |=======================================|
 |=======================================|
@@ -155,6 +149,7 @@ Plague Hearth rebalance (HP/Resist)
 |||--- 06 july 2020 ---
   ~ REMOVED: "Reduced energy consumption for use melee weapons, evasion and running";
   ~ REMOVED: Craft "Enhanced Bandage";
+  ~ "Skip Intro" by kERHUS integrated;
   ~ Rebalance of "Enhanced Plague Cure" craft (water and knowledge of pharmacology required);
   ~ Vehicle Loudness increase (+50%);
   ~ AI-controlled Сharacters take reduced damage (-60%);
@@ -162,6 +157,12 @@ Plague Hearth rebalance (HP/Resist)
      Green Zone -45% => -20%, Stadart Zone 0% => +10%,
      Dread Zone +30% => +40%, Nightmare Zone +50% => +60%;
   ~ +4 Beds ("Changing of the Guard" buff);
-  ~ Scaling rebalance. Narrowed the minimum and maximum number of pawns: 
-     More zombies at the start;
-     Slightly less at maximum community standing.
+
+|||--- ?? july 2020 ---
+  ~ Plague Hearth rebalance (HP/Resist);
+  ~ Scaling rebalance;
+  ~ Trading rebalance;
+  ~ Zeds\Freaks Population rebalance;
+  ~ Zeds scream chance reduced;
+  ~ Crouch Sprinting available regardless of skill (DEH side);
+  ~ Infestation rebalance.
