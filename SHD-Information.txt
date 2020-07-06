@@ -112,7 +112,7 @@ N/A
 
   \\\\\ Shooting Skills \\\\\
   — "Reload Speed" has been replaced by "Reload Time" for better perception 
-    ("+50% Reload Speed" = "-33% Reload Time" in the vanila version);
+    ("+50% Reload Speed" = "-33% Reload Time" in the vanilla version);
   — The maximum value of "Reload Time" = -40% for all shooting specializations 
     (buff +7%, but nerf for Gunslinging);
   — Removed: Autoaim (Gunslinging), Penetrate All Enemy (Sharpshooting), 
@@ -166,7 +166,7 @@ N/A
   ~ +4 Beds ("Changing of the Guard" buff);
 
 |||--- 07 july 2020 ---
-  ~ Plague Hearth rebalanced (HP +400% / Resist close to vanila);
+  ~ Plague Hearth rebalanced (HP +3000%[DEH] => +450% [nerf, but buff relative to vanilla] / Resist close to vanilla);
   ~ Infestation rebalanced (more Zeds, their variations);
   ~ Scaling major rebalanced;
   ~ Zeds\Freaks Population major rebalanced;
