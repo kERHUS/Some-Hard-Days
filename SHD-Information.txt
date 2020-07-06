@@ -1,4 +1,4 @@
-"Some Hard Days" by kERHUS v1.3.7
+"Some Hard Days" by kERHUS v1.4.8
 [Based on "Dead End Heaven" by TheNeru]
 Makes the game difficult... In its own way...
 
@@ -6,8 +6,9 @@ Makes the game difficult... In its own way...
 
 =======================================
 =========== Taken from DEH ============
+~ Increased Plague Heart Health;* (+300%)
 ~ Plague Heart can spawn Special Infected when attacked (Bloater, Feral);
-~ Plague Heart can spawn up to 2 Blood Ferals max(*);
+~ Plague Heart can spawn up to 2 Blood Ferals max;*
 ~ Blood Ferals take less headshots to kill;
 ~ Increased Plague Heart Cloud area;
 ~ Plague Heart Burst and Cloud events now attract zombies;
@@ -24,6 +25,8 @@ Makes the game difficult... In its own way...
 ~ Embedded Altered Rucksacks [DEH Ver].
 --- [Updated 06-28-20] ---
 ~ Can craft "Enhanced Plague Cure" with Infirmary 3 and Field Hospital.
+--- [Updated 07-07-20] ---
+~ Crouch Sprinting available regardless of skill.
 
 =======================================
 ================= SHD =================
@@ -32,14 +35,15 @@ Makes the game difficult... In its own way...
 - "Shifted Day light - 18day 6night" by SarDeliac (integrated);
 - "Skip Intro" by kERHUS (integrated);
 - The amount of Ambient Zombies spawned increased;
-- Added Blood versions of Screamers, Bloaters, Ferals and Juggernauts. 
-   Now they spawn along with their standard version;
+- Scaling rebalance (0-8 Hero);
+- Added Blood versions of Screamers, Bloaters, Ferals and Juggernauts. Now they spawn along with their standard version;
 - Decreased spawn of Juggernauts on each difficulty;
 - Nerfed hordes with a Juggernauts;
-- Screamer scream radius increased (like Nightmare);
-- Volume of zombie screams increased on each difficulty (like Nightmare);
 - Added Feral Pack, Bloater Pod, Screamer Choir hordes on each difficulty;
 - A horde of three Freaks now has one Freak Blood version at the head;
+- Infestation rebalanced (more zeds, their variations);
+- Screamer scream radius increased (like Nightmare);
+- Volume of zombie screams increased, chance reduced;
 - Revised Blood Bloater cloud (nerf plague infection at half);
 - Revised stacks of Ammo, Gas Cans and Repair Kits;
 - More effective to Gas Can and Repair Kits;
@@ -48,14 +52,16 @@ Makes the game difficult... In its own way...
 - The trunk of Vehicles is tripled.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ~~~~~~~~~~~~~~ Scenario ~~~~~~~~~~~~~~~
+- Green Zone ambient spawn like Standart Zone;
 - Reduced deterioration of vehicles and weapons on each difficulty (like Green Zone);
 - Fuel Efficiency higher (like Green Zone);
-- Reduced the rate of Fatigue on all difficulties (like Green Zone);
-- Plague Hearts are hidden (not visible on the map) on each difficulty (like Nightmare);
-- Increased the volume of the gunshot on Standart and Dread zone (like Nightmare);
-- Green Zone ambient spawn like Standart Zone;
-- +4 Beds (~"Changing of the Guard" buff~);
 - Vehicle Loudness increase (+50%);
+- Increased the volume of the gunshot on Standart and Dread zone (like Nightmare);
+- Reduced the rate of Fatigue on all difficulties (like Green Zone);
+- Energy Consumption for use melee weapons, finisher move and running reduced (-15-20%);
+- Plague Hearts are hidden (not visible on the map) on each difficulty (like Nightmare);
+- +4 Beds (~"Changing of the Guard" buff~);
+- Debuff to construction cost on each difficulty (like Dread Zone); 
 - AI-controlled Сharacters take reduced damage (-60%);
 - Player-controlled Сharacters take increased damage:
      Green Zone -45% => -20%, Stadart Zone 0% => +10%,
@@ -64,8 +70,9 @@ Makes the game difficult... In its own way...
 ~~~~~~~~ "Influence" Rebalance ~~~~~~~~
 - Reduced getting "Influence" from all sources (-80%) [to make trading a more important part of the game];
 - Reduced "Influence" cost for travel to other base;
-- "Standing" rebalance due with change in "Influence" system;
-- "Multiplayer Rewards" rebalance due with change in "Influence" system.
+- "Standing" rebalanced due with change in "Influence" system;
+- "Multiplayer Rewards" rebalanced due with change in "Influence" system;
+- "Trading Prices" slightly rebalanced due with change in "Influence" system.
 
 |=======================================|
 |=======================================|
@@ -158,14 +165,13 @@ N/A
      Dread Zone +30% => +40%, Nightmare Zone +50% => +70%;
   ~ +4 Beds ("Changing of the Guard" buff);
 
-|||--- ?? july 2020 --- [NOT UPLOADED, WORK IN PROGRESS]
+|||--- 07 july 2020 ---
   ~ Plague Hearth rebalanced (HP/Resist);
-+  ~ Infestation rebalanced;
-+  ~ Scaling rebalanced;
-+  ~ Zeds\Freaks Population rebalanced;
-+  ~ Trading prices slightly rebalanced;
-+  ~ Fatigue rate disabled to client-side (test);
-+  ~ Zeds scream chance and loudness reduced;
-+  ~ Debuff to construction cost on each difficulty (like Dread Zone); 
-+  ~ Energy Consumption for use melee weapons, finisher move and running reduced (-15-20%);
-+  ~ Crouch Sprinting available regardless of skill (DEH side).
+  ~ Infestation rebalanced;
+  ~ Scaling major rebalanced;
+  ~ Zeds\Freaks Population major rebalanced;
+  ~ Trading prices slightly rebalanced;
+  ~ Zeds scream chance and loudness reduced;
+  ~ Debuff to construction cost on each difficulty (like Dread Zone);
+  ~ Energy Consumption for use melee weapons, finisher move and running reduced (-15-20%);
+  ~ Crouch Sprinting available regardless of skill (DEH side).
