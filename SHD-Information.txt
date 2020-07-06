@@ -53,7 +53,7 @@ Makes the game difficult... In its own way...
 - Plague Hearts are hidden (not visible on the map) on each difficulty (like Nightmare);
 - Increased the volume of the gunshot on each difficulty (like Nightmare);
 - Green Zone ambient spawn like Standart Zone;
-- +4 Beds ("Changing of the Guard" buff);
+- +4 Beds (~"Changing of the Guard" buff~);
 - Vehicle Loudness increase (+50%);
 - AI-controlled Сharacters take reduced damage (-60%);
 - Player-controlled Сharacters take increased damage:
@@ -86,7 +86,8 @@ N/A
   ~ Update for 396410.
 
 |||--- 02 july 2020 ---
-  ~ Reduced getting "Influence" from all sources (To make trading a more important part of the game);
+  ~ Added Feral Pack, Bloater Pod, Screamer Choir hordes on All Difficulty.
+  ~ Reduced getting "Influence" from all sources (-80%) [to make trading a more important part of the game];
   ~ Reduced "Influence" cost for travel to other base;
   ~ "Standing" rebalance due with change in "Influence" system;
   ~ "Multiplayer Rewards" rebalance due with change in "Influence" system;
@@ -105,19 +106,19 @@ N/A
   — "Reload Speed" has been replaced by "Reload Time" for better perception 
     ("+50% Reload Speed" = "-33% Reload Time" in the vanila version);
   — The maximum value of "Reload Time" = -40% for all shooting specializations 
-    (buff +7%, but nerf for Gunslinging).
+    (buff +7%, but nerf for Gunslinging);
   — Removed: Autoaim (Gunslinging), Penetrate All Enemy (Sharpshooting), 
     ASSAULT Firearm Knockdown replace to Impact.
 
   -— GUNSLINGING (max) —-
-  - A kick when aiming (like Assult perk);
+  - A kick when aiming (like Assault perk);
   - Reload Time -40%;
   - Firearm Sway -40%;
   - Firearm Recoil -40%;
   - Firearm Knockdown +15% (at maximum level).
 
   -— SHARPSHOOTING (max) —-
-  - A kick when aiming (like Assult perk);
+  - A kick when aiming (like Assault perk);
   - Reload Time -40%;
   - Firearm Sway -50%;
   - Firearm Recoil -25%;
@@ -131,7 +132,7 @@ N/A
   - Firearm Impact +30% (extended to all 8 levels).
 
   -— WARFIGHTING (max) —-
-  - A kick when aiming (like Assult perk);
+  - A kick when aiming (like Assault perk);
   - Reload Time -40%;
   - Firearm Sway -50%;
   - Firearm Recoil -50%;
@@ -139,7 +140,6 @@ N/A
   - Firearm Dismemberment +30% (extended to all 8 levels);
   - Firearm Knockdown +15% (at maximum level).
   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-  + Added Feral Pack, Bloater Pod, Screamer Choir hordes on All Difficulty.
 
 |||--- 03 july 2020 ---
   ~ "Shifted Day light - 18day 6night" by SerDeliac (integrated);
@@ -154,16 +154,16 @@ N/A
   ~ AI-controlled Сharacters take reduced damage (-60%);
   ~ Player-controlled Сharacters take increased damage:
      Green Zone -45% => -20%, Stadart Zone 0% => +10%,
-     Dread Zone +30% => +40%, Nightmare Zone +50% => +60%;
+     Dread Zone +30% => +40%, Nightmare Zone +50% => +70%;
   ~ +4 Beds ("Changing of the Guard" buff);
 
-|||--- ?? july 2020 ---
+|||--- ?? july 2020 --- [NOT UPLOADED, WORK IN PROGRESS]
   ~ Plague Hearth rebalanced (HP/Resist);
   ~ Scaling rebalanced;
   ~ Trading rebalanced;
   ~ Zeds\Freaks Population rebalanced;
   ~ Zeds scream chance reduced;
   ~ Infestation rebalanced;
-  ~ Debuff to construction cost removed;
+  ~ Debuff to construction cost on each difficulty (like Dread Zone);
   ~ Energy Consumption for use melee weapons, finisher move and running reduced;
   ~ Crouch Sprinting available regardless of skill (DEH side).
