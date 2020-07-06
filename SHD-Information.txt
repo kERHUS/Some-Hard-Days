@@ -166,3 +166,4 @@ N/A
   ~ Zeds scream chance reduced;
   ~ Crouch Sprinting available regardless of skill (DEH side);
   ~ Infestation rebalance.
+  ~ Debuff to construction cost rebalance;
