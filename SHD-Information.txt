@@ -161,9 +161,9 @@ N/A
 |||--- ?? july 2020 --- [NOT UPLOADED, WORK IN PROGRESS]
   ~ Plague Hearth rebalanced (HP/Resist);
   ~ Scaling rebalanced;
-  ~ Trading price rebalanced;
   ~ Zeds\Freaks Population rebalanced;
   ~ Infestation rebalanced;
++ ~ Trading prices slightly rebalanced;
 +  ~ Fatigue rate disabled to client-side (test);
 +  ~ Zeds scream chance and loudness reduced;
 +  ~ Debuff to construction cost on each difficulty (like Dread Zone); 
