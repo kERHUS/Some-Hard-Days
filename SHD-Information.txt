@@ -6,7 +6,7 @@ Makes the game difficult... In its own way...
 
 =======================================
 =========== Taken from DEH ============
-~ Increased Plague Heart Health;* (+300%)
+~ Increased Plague Heart Health;* (+400%)
 ~ Plague Heart can spawn Special Infected when attacked (Bloater, Feral);
 ~ Plague Heart can spawn up to 2 Blood Ferals max;*
 ~ Blood Ferals take less headshots to kill;
@@ -166,8 +166,8 @@ N/A
   ~ +4 Beds ("Changing of the Guard" buff);
 
 |||--- 07 july 2020 ---
-  ~ Plague Hearth rebalanced (HP/Resist);
-  ~ Infestation rebalanced;
+  ~ Plague Hearth rebalanced (HP +400% / Resist close to vanila);
+  ~ Infestation rebalanced (more Zeds, their variations);
   ~ Scaling major rebalanced;
   ~ Zeds\Freaks Population major rebalanced;
   ~ Trading prices slightly rebalanced;
