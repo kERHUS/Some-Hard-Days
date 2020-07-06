@@ -163,7 +163,7 @@ N/A
   ~ Scaling rebalanced;
   ~ Zeds\Freaks Population rebalanced;
   ~ Infestation rebalanced;
-+ ~ Trading prices slightly rebalanced;
++  ~ Trading prices slightly rebalanced;
 +  ~ Fatigue rate disabled to client-side (test);
 +  ~ Zeds scream chance and loudness reduced;
 +  ~ Debuff to construction cost on each difficulty (like Dread Zone); 
