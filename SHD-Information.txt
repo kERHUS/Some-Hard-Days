@@ -47,7 +47,7 @@ Makes the game difficult... In its own way...
 - Revised Blood Bloater cloud (nerf plague infection at half);
 - Revised stacks of Ammo, Gas Cans and Repair Kits;
 - More effective to Gas Can and Repair Kits;
-- Shooting, Cardio and Wits specializations rebalance;
+- Shooting, Cardio and Wits specializations rebalance; [check changelog: -02 july 2020-]
 - Heavy Melee Weapons rebalance (Durability++, Lethality++, etc);
 - The trunk of Vehicles is tripled.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
