@@ -63,7 +63,8 @@ Makes the game difficult... In its own way...
 - +4 Beds (~"Changing of the Guard" buff~);
 - Debuff to construction cost on each difficulty (like Dread Zone); 
 - AI-controlled Сharacters take reduced damage (-60%);
-- Player-controlled Сharacters take increased damage:
+- Client-side active Character take reduced damage on each difficulty (-20%);
+- Host-side Player-controlled Сharacters take increased damage:
      Green Zone -45% => -20%, Stadart Zone 0% => +10%,
      Dread Zone +30% => +40%, Nightmare Zone +50% => +60%.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -159,9 +160,9 @@ N/A
   ~ Rebalance of "Enhanced Plague Cure" craft (water and knowledge of pharmacology required);
   ~ Vehicle Loudness increase (+50%);
   ~ AI-controlled Сharacters take reduced damage (-60%);
-  ~ Player-controlled Сharacters take increased damage:
+  ~ Host-side Player-controlled Сharacters take increased damage:
      Green Zone -45% => -20%, Stadart Zone 0% => +10%,
-     Dread Zone +30% => +40%, Nightmare Zone +50% => +70%;*
+     Dread Zone +30% => +40%, Nightmare Zone +50% => +70%; [=> +60%, nerf in UDP -07+ july 2020-]*
   ~ +4 Beds ("Changing of the Guard" buff);
 
 |||--- 07 july 2020 ---
@@ -174,7 +175,5 @@ N/A
   ~ Debuff to construction cost on each difficulty (like Dread Zone);
   ~ Energy Consumption for use melee weapons, finisher move and running reduced (-15-20%);
   ~ Crouch Sprinting available regardless of skill (DEH side).
-
-|||--- ?? july 2020 --- (NOT UPLOADED, WORK IN PROGRESS)
-  ~ Client-side active Character take decreased damage on each difficulty (-20%); [Reason: Bad Sync]
-  ~ Host-side Player-controlled Сharacters take increased damage: Nightmare Zone +50% => +60%; [Nerf in change UDP -06 july 2020-]*
+  + Client-side active Character take reduced damage on each difficulty (-20%); [Reason: Bad Sync]
+  + Host-side Player-controlled Сharacters take increased damage: Nightmare Zone +50% => +60%. [Nerf in change UDP -06 july 2020-]*
