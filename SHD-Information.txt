@@ -65,7 +65,7 @@ Makes the game difficult... In its own way...
 - AI-controlled Сharacters take reduced damage (-60%);
 - Player-controlled Сharacters take increased damage:
      Green Zone -45% => -20%, Stadart Zone 0% => +10%,
-     Dread Zone +30% => +40%, Nightmare Zone +50% => +70%.
+     Dread Zone +30% => +40%, Nightmare Zone +50% => +60%.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ~~~~~~~~ "Influence" Rebalance ~~~~~~~~
 - Reduced getting "Influence" from all sources (-80%) [to make trading a more important part of the game];
@@ -161,7 +161,7 @@ N/A
   ~ AI-controlled Сharacters take reduced damage (-60%);
   ~ Player-controlled Сharacters take increased damage:
      Green Zone -45% => -20%, Stadart Zone 0% => +10%,
-     Dread Zone +30% => +40%, Nightmare Zone +50% => +70%;
+     Dread Zone +30% => +40%, Nightmare Zone +50% => +70%;*
   ~ +4 Beds ("Changing of the Guard" buff);
 
 |||--- 07 july 2020 ---
@@ -174,3 +174,7 @@ N/A
   ~ Debuff to construction cost on each difficulty (like Dread Zone);
   ~ Energy Consumption for use melee weapons, finisher move and running reduced (-15-20%);
   ~ Crouch Sprinting available regardless of skill (DEH side).
+
+|||--- ?? july 2020 --- (NOT UPLOADED, WORK IN PROGRESS)
+  ~ Client-side active Character take decreased damage on each difficulty (-20%); [Reason: Bad Sync]
+  ~ Player-controlled Сharacters take increased damage: Nightmare Zone +50% => +60%; [Nerf in change UDP -06 july 2020-]*
