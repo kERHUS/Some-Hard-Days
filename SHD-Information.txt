@@ -1,4 +1,4 @@
-"Some Hard Days" by kERHUS v1.4.9
+"Some Hard Days" by kERHUS v1.4.10
 [Based on "Dead End Heaven" by TheNeru]
 Makes the game difficult... In its own way...
 
@@ -6,10 +6,9 @@ Makes the game difficult... In its own way...
 
 =======================================
 =========== Taken from DEH ============
-~ Increased Plague Heart Health;* (+450%)
+~ Increased Plague Heart Health;* (+500%)
 ~ Plague Heart can spawn Special Infected when attacked (Bloater, Feral);
 ~ Plague Heart can spawn up to 2 Blood Ferals max;*
-~ Blood Ferals take less headshots to kill;
 ~ Increased Plague Heart Cloud area;
 ~ Plague Heart Burst and Cloud events now attract zombies;
 ~ Altered Plague Heart Drops.
@@ -34,6 +33,7 @@ Makes the game difficult... In its own way...
 - "AI limit fix" by rubyruby (integrated);
 - "FULL HOUSE" by Heilos (integrated);
 - "Shifted Day light - 18day 6night" by SarDeliac (integrated);
+- "Prestige to Influence" by kERHUS (integrated);
 - The amount of Ambient Zombies spawned increased;
 - Scaling rebalance (0-8 Hero);
 - Added Blood versions of Screamers, Bloaters, Ferals and Juggernauts. Now they spawn along with their standard version;
@@ -41,15 +41,20 @@ Makes the game difficult... In its own way...
 - Nerfed hordes with a Juggernauts;
 - Added Feral Pack, Bloater Pod, Screamer Choir hordes on each difficulty;
 - A horde of three Freaks now has one Freak Blood version at the head;
-- Infestation rebalanced (more zeds, their variations);
+- Blood Ferals - down chance from Heavy Melee Weapons +50%;
 - Screamer scream radius increased (like Nightmare);
 - Volume of zombie screams increased, chance reduced;
 - Revised Blood Bloater cloud (nerf plague infection at half);
+- Infestation rebalanced (more zeds, their variations);
 - Revised stacks of Ammo, Gas Cans and Repair Kits;
 - More effective to Gas Can and Repair Kits;
 - Shooting, Cardio and Wits specializations rebalance; [check changelog: -02 july 2020-]
 - Heavy Melee Weapons rebalance (Durability++, Lethality++, etc);
-- The trunk of Vehicles is tripled.
+- The trunk of Vehicles is tripled;
+- Plague Toxin Distiller can now persist in main game and Heartland;
+- Plague Toxin Distiller added in Prestige Trader Shop-list (1200 influence);
+- Plague Busters craft changed: 1x Bloater Glands = 1x Plague Busters;
+- For full effect Plague Toxin Distiller + Bloater Glands + Plague Busters push "Enable Bloater Harvest for mods" in Community Editor.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ~~~~~~~~~~~~~~ Scenario ~~~~~~~~~~~~~~~
 - Green Zone ambient spawn like Standart Zone;
@@ -152,7 +157,7 @@ Makes the game difficult... In its own way...
 
 |||--- 03 july 2020 ---
   ~ "Shifted Day light - 18day 6night" by SerDeliac (integrated);
-  ~ The trunk of vehicles is tripled;
+  ~ The trunk of vehicles is tripled.
   + Small Fixes.
 
 |||--- 06 july 2020 ---
@@ -162,18 +167,29 @@ Makes the game difficult... In its own way...
   ~ AI-controlled Сharacters take reduced damage (-60%);
   ~ Host-side Player-controlled Сharacters take increased damage:
      Green Zone -45% => -20%, Stadart Zone 0% => +10%,
-     Dread Zone +30% => +40%, Nightmare Zone +50% => +70%; [=> +60%, nerf in UDP -07+ july 2020-]*
+     Dread Zone +30% => +40%, Nightmare Zone +50% => +70%;
   ~ +4 Beds ("Changing of the Guard" buff);
 
 |||--- 07 july 2020 ---
-  ~ Plague Hearth rebalanced (HP +3000%[DEH] => +450% [nerf, but buff relative to vanilla] / Resist close to vanilla);
+  ~ Plague Hearth rebalanced (HP +3000%[DEH] => +500% [nerf, but buff relative to vanilla] / Resist close to vanilla);
   ~ Infestation rebalanced (more Zeds, their variations);
   ~ Scaling major rebalanced;
   ~ Zeds\Freaks Population major rebalanced;
   ~ Trading prices slightly rebalanced;
-  ~ Zeds scream chance and loudness reduced;
+  ~ Zeds scream chance and loudness rebalance;
   ~ Debuff to construction cost on each difficulty (like Dread Zone);
   ~ Energy Consumption for use melee weapons, finisher move and running reduced (-15-20%);
-  ~ Crouch Sprinting available regardless of skill (DEH side).
-  + Client-side active Character take reduced damage on each difficulty (-20%); [Reason: Bad Sync]
-  + Host-side Player-controlled Сharacters take increased damage: Nightmare Zone +50% => +60%. [Nerf in change UDP -06 july 2020-]*
+  ~ Crouch Sprinting available regardless of skill (DEH side);
+  ~ Host-side Player-controlled Сharacters take increased damage in Nightmare Zone +70% => +60%.
+  + Client-side active Character take reduced damage on each difficulty (-20%). [Reason: Bad Sync]
+
+|||--- 09 july 2020 ---
+  ~ REMOVED: Blood Ferals take less headshots to kill;
+  ~ "Prestige to Influence" by kERHUS (integrated);
+  ~ Blood Ferals - down chance from Heavy Melee Weapons +50%;
+  ~ Plague Toxin Distiller can now persist in main game and Heartland;
+  ~ Plague Toxin Distiller added in Prestige Trader Shop-list (1200 influence);
+  ~ Plague Busters craft changed: 1x Bloater Glands = 1x Plague Busters;
+  ~ For full effect "Plague Toxin Distiller + Bloater Glands + Plague Busters" push the button "Enable Bloater Harvest for mods" in Community Editor. 
+        [I hope in the future this will be redone for the quest]
+  
