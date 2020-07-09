@@ -33,7 +33,7 @@ Makes the game difficult... In its own way...
 - "FULL HOUSE" by Heilos (integrated);
 - "Shifted Day light - 18day 6night" by SarDeliac (integrated);
 - "Prestige to Influence" by kERHUS (integrated);
-- Cliet-side Active Characters not getting Fatigue;
+- Client-side Active Characters not getting Fatigue;
 - Scaling rebalance (0-8 Hero);
 - The amount of Ambient Zombies spawned increased;
 - Added Blood versions of Screamers, Bloaters, Ferals and Juggernauts. Now they spawn along with their standard version;
@@ -192,5 +192,5 @@ Makes the game difficult... In its own way...
   ~ Plague Busters craft changed: 1x Bloater Glands = 1x Plague Busters;
   ~ For full effect "Plague Toxin Distiller + Bloater Glands + Plague Busters" push the button "Enable Bloater Harvest for mods" in Community Editor. 
         [I hope in the future this will be redone for the quest]
-  + Cliet-side Active Characters not getting Fatigue.
+  + Client-side Active Characters not getting Fatigue.
   
