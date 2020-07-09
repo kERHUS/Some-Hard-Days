@@ -54,7 +54,7 @@ Makes the game difficult... In its own way...
 - Plague Toxin Distiller can now persist in main game and Heartland;
 - Plague Toxin Distiller added in Prestige Trader Shop-list (1200 influence);
 - Plague Busters craft changed: 1x Bloater Glands = 1x Plague Busters;
-- For full effect Plague Toxin Distiller + Bloater Glands + Plague Busters push "Enable Bloater Harvest for mods" in Community Editor.
+- For full effect "Plague Toxin Distiller + Bloater Glands + Plague Busters" push "Enable Bloater Harvest for mods" in Community Editor.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ~~~~~~~~~~~~~~ Scenario ~~~~~~~~~~~~~~~
 - Green Zone ambient spawn like Standart Zone;
