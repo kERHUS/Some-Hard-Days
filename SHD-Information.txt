@@ -1,4 +1,4 @@
-"Some Hard Days" by kERHUS v1.4.10
+"Some Hard Days" by kERHUS v1.4.11
 [Based on "Dead End Heaven" by TheNeru]
 Makes the game difficult... In its own way...
 
@@ -33,14 +33,15 @@ Makes the game difficult... In its own way...
 - "FULL HOUSE" by Heilos (integrated);
 - "Shifted Day light - 18day 6night" by SarDeliac (integrated);
 - "Prestige to Influence" by kERHUS (integrated);
-- The amount of Ambient Zombies spawned increased;
+- Cliet-side Active Character not getting tired;
 - Scaling rebalance (0-8 Hero);
+- The amount of Ambient Zombies spawned increased;
 - Added Blood versions of Screamers, Bloaters, Ferals and Juggernauts. Now they spawn along with their standard version;
 - Decreased spawn of Juggernauts on each difficulty;
 - Nerfed hordes with a Juggernauts;
 - Added Feral Pack, Bloater Pod, Screamer Choir hordes on each difficulty;
 - A horde of three Freaks now has one Freak Blood version at the head;
-- Blood Ferals - down chance from Heavy Melee Weapons +50%;
+- Blood Ferals: down chance from Heavy Melee Weapons +50%;
 - Screamer scream radius increased (like Nightmare);
 - Volume of zombie screams increased, chance reduced;
 - Revised Blood Bloater cloud (nerf plague infection at half);
@@ -177,7 +178,7 @@ Makes the game difficult... In its own way...
   ~ Trading prices slightly rebalanced;
   ~ Zeds scream chance and loudness rebalance;
   ~ Debuff to construction cost on each difficulty (like Dread Zone);
-  ~ Energy Consumption for use melee weapons, finisher move and running reduced (-15-20%);
+  ~ Energy Consumption for use melee weapons -20%, finisher move -25% and running -15%;
   ~ Crouch Sprinting available regardless of skill (DEH side);
   ~ Host-side Player-controlled Сharacters take increased damage in Nightmare Zone +70% => +60%.
   + Client-side active Character take reduced damage on each difficulty (-20%). [Reason: Bad Sync]
@@ -185,10 +186,11 @@ Makes the game difficult... In its own way...
 |||--- 09 july 2020 ---
   ~ REMOVED: Blood Ferals take less headshots to kill (DEH side);
   ~ "Prestige to Influence" by kERHUS (integrated);
-  ~ Blood Ferals - down chance from Heavy Melee Weapons +50%;
+  ~ Blood Ferals: down chance from Heavy Melee Weapons +50%;
   ~ Plague Toxin Distiller can now persist in main game and Heartland;
   ~ Plague Toxin Distiller added in Prestige Trader Shop-list (1200 influence);
   ~ Plague Busters craft changed: 1x Bloater Glands = 1x Plague Busters;
   ~ For full effect "Plague Toxin Distiller + Bloater Glands + Plague Busters" push the button "Enable Bloater Harvest for mods" in Community Editor. 
         [I hope in the future this will be redone for the quest]
+  + Cliet-side Active Character not getting tired.
   
