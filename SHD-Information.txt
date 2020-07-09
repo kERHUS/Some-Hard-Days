@@ -74,7 +74,7 @@ Makes the game difficult... In its own way...
      Dread Zone +30% => +40%, Nightmare Zone +50% => +60%.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ~~~~~~~~ "Influence" Rebalance ~~~~~~~~
-- Reduced getting "Influence" from all sources (-80%) [to make trading a more important part of the game];
+- Reduced getting "Influence" from more sources (-80%) [to make trading a more important part of the game];
 - Reduced "Influence" cost for travel to other base;
 - "Standing" rebalanced due with change in "Influence" system;
 - "Multiplayer Rewards" rebalanced due with change in "Influence" system;
@@ -101,7 +101,7 @@ Makes the game difficult... In its own way...
 
 |||--- 02 july 2020 ---
   ~ Added Feral Pack, Bloater Pod, Screamer Choir hordes on All Difficulty.
-  ~ Reduced getting "Influence" from all sources (-80%) [to make trading a more important part of the game];
+  ~ Reduced getting "Influence" from more sources (-80%) [to make trading a more important part of the game];
   ~ Reduced "Influence" cost for travel to other base;
   ~ "Standing" rebalance due with change in "Influence" system;
   ~ "Multiplayer Rewards" rebalance due with change in "Influence" system;
