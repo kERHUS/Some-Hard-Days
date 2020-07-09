@@ -33,7 +33,7 @@ Makes the game difficult... In its own way...
 - "FULL HOUSE" by Heilos (integrated);
 - "Shifted Day light - 18day 6night" by SarDeliac (integrated);
 - "Prestige to Influence" by kERHUS (integrated);
-- Cliet-side Active Character not getting Fatigue;
+- Cliet-side Active Characters not getting Fatigue;
 - Scaling rebalance (0-8 Hero);
 - The amount of Ambient Zombies spawned increased;
 - Added Blood versions of Screamers, Bloaters, Ferals and Juggernauts. Now they spawn along with their standard version;
@@ -68,7 +68,7 @@ Makes the game difficult... In its own way...
 - +4 Beds (~"Changing of the Guard" buff~);
 - Debuff to construction cost on each difficulty (like Dread Zone); 
 - AI-controlled Сharacters take reduced damage (-60%);
-- Client-side active Character take reduced damage on each difficulty (-20%);
+- Client-side active Characters take reduced damage on each difficulty (-20%);
 - Host-side Player-controlled Сharacters take increased damage:
      Green Zone -45% => -20%, Stadart Zone 0% => +10%,
      Dread Zone +30% => +40%, Nightmare Zone +50% => +60%.
@@ -181,7 +181,7 @@ Makes the game difficult... In its own way...
   ~ Energy Consumption for use melee weapons -20%, finisher move -25% and running -15%;
   ~ Crouch Sprinting available regardless of skill (DEH side);
   ~ Host-side Player-controlled Сharacters take increased damage in Nightmare Zone +70% => +60%.
-  + Client-side active Character take reduced damage on each difficulty (-20%). [Reason: Bad Sync]
+  + Client-side active Characters take reduced damage on each difficulty (-20%). [Reason: Bad Sync]
 
 |||--- 09 july 2020 ---
   ~ REMOVED: Blood Ferals take less headshots to kill (DEH side);
@@ -192,5 +192,5 @@ Makes the game difficult... In its own way...
   ~ Plague Busters craft changed: 1x Bloater Glands = 1x Plague Busters;
   ~ For full effect "Plague Toxin Distiller + Bloater Glands + Plague Busters" push the button "Enable Bloater Harvest for mods" in Community Editor. 
         [I hope in the future this will be redone for the quest]
-  + Cliet-side Active Character not getting Fatigue.
+  + Cliet-side Active Characters not getting Fatigue.
   
