@@ -23,8 +23,7 @@ Makes the game difficult... In its own way...
 ~ Time to recover from fatigue reduced;
 ~ Embedded Altered Rucksacks [DEH Ver].
 --- [Updated 06-28-20] ---
-~ Can craft "Enhanced Plague Cure" with Infirmary 3 and Field Hospital.* 
-   (Water and knowledge of pharmacology required)
+~ Can craft "Enhanced Plague Cure" with Infirmary 3 and Field Hospital.* (Water and knowledge of pharmacology required)
 --- [Updated 07-07-20] ---
 ~ Crouch Sprinting available regardless of skill.
 
@@ -94,7 +93,7 @@ Makes the game difficult... In its own way...
   ~ Release in Eng Discord Channel.
 
 |||--- 29 june 2020 ---
-  ~ Fix issue with "Enhanced Bandage" (side DEH).
+  ~ Fix issue with "Enhanced Bandage" (DEH side).
 
 |||--- 30 june 2020 ---
   ~ Update for 396410.
@@ -184,7 +183,7 @@ Makes the game difficult... In its own way...
   + Client-side active Character take reduced damage on each difficulty (-20%). [Reason: Bad Sync]
 
 |||--- 09 july 2020 ---
-  ~ REMOVED: Blood Ferals take less headshots to kill;
+  ~ REMOVED: Blood Ferals take less headshots to kill (DEH side);
   ~ "Prestige to Influence" by kERHUS (integrated);
   ~ Blood Ferals - down chance from Heavy Melee Weapons +50%;
   ~ Plague Toxin Distiller can now persist in main game and Heartland;
