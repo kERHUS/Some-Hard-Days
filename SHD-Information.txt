@@ -195,7 +195,7 @@ Makes the game difficult... In its own way...
   + Client-side Active Characters not getting Fatigue.
   
 ///--- ?? july 2020 --- [v 1.4.12] [WORK IN PROGRESS, NOT UPLOADED]
-  ~ Infestation rebalance (again), greater numerical strength (buff), faster growth (buff), longer cooldown (nerf); (done)
+  ~ Infestation rebalance (again); (done)
   ~ Reduced getting "Influence" from missions (-80%); (done)
   ~ Penetration rebalance on all weapons;
   ~ All weapons have durability. "Weapons without durability in the past" lose it more slowly.
