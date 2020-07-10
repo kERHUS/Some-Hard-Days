@@ -1,4 +1,4 @@
-"Some Hard Days" by kERHUS v1.5.12
+"Some Hard Days" by kERHUS v1.5.13
 [Based on "Dead End Heaven" by TheNeru]
 Makes the game difficult... In its own way...
 
@@ -34,7 +34,6 @@ Makes the game difficult... In its own way...
 - "Shifted Day light - 18day 6night" by SarDeliac (integrated);
 - "Prestige to Influence" by kERHUS (integrated);
 - Client-side Active Characters not getting Fatigue;
-- Scaling rebalance (0-8 Hero);
 - The amount of Ambient Zombies spawned increased;
 - Added Blood versions of Screamers, Bloaters, Ferals and Juggernauts. Now they spawn along with their standard version;
 - Decreased spawn of Juggernauts on each difficulty;
@@ -48,7 +47,6 @@ Makes the game difficult... In its own way...
 - Infestation rebalanced (more zeds, their variations);
 - Revised stacks of Ammo, Gas Cans and Repair Kits;
 - More effective to Gas Can and Repair Kits;
-- Shooting, Cardio and Wits specializations rebalance; [check changelog: -02 july 2020-]
 - Heavy Melee Weapons rebalance (Durability++, Lethality++, etc);
 - The trunk of Vehicles is tripled;
 - Plague Toxin Distiller can now persist in main game and Heartland;
@@ -57,28 +55,74 @@ Makes the game difficult... In its own way...
 - For full effect "Plague Toxin Distiller + Bloater Glands + Plague Busters" push "Enable Bloater Harvest for mods" in Community Editor.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ~~~~~~~~~~~~~~ Scenario ~~~~~~~~~~~~~~~
-- Green Zone ambient spawn like Standart Zone;
+- Green Zone ambient spawn like Standard Zone;
 - Reduced deterioration of vehicles and weapons on each difficulty (like Green Zone);
 - Fuel Efficiency higher (like Green Zone);
 - Vehicle Loudness increase (+50%);
-- Increased the volume of the gunshot on Standart and Dread zone (like Nightmare);
 - Reduced the rate of Fatigue on all difficulties (like Green Zone);
 - Energy Consumption for use melee weapons, finisher move and running reduced (-15-20%);
+- Reduced Plague Samples drop on each difficulty (like Nightmare);
+- Increased the volume of the gunshot on Standard and Dread zone (like Nightmare);
 - Plague Hearts are hidden (not visible on the map) on each difficulty (like Nightmare);
-- +4 Beds (~"Changing of the Guard" buff~);
-- Debuff to construction cost on each difficulty (like Dread Zone); 
+- +4 Beds ("Changing of the Guard" buff);
+- Debuff to construction cost on each difficulty (like Dread Zone);
 - AI-controlled Сharacters take reduced damage (-60%);
 - Client-side active Characters take reduced damage on each difficulty (-20%);
 - Host-side Player-controlled Сharacters take increased damage:
      Green Zone -45% => -20%, Stadart Zone 0% => +10%,
-     Dread Zone +30% => +40%, Nightmare Zone +50% => +60%.
+     Dread Zone +30% (vanilla), Nightmare Zone +50% (vanilla).
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ~~~~~~~~ "Influence" Rebalance ~~~~~~~~
-- Reduced getting "Influence" from more sources (-80%) [to make trading a more important part of the game];
+- Reduced getting "Influence" from more sources (-90%) [to make trading a more important part of the game];
 - Reduced "Influence" cost for travel to other base;
 - "Standing" rebalanced due with change in "Influence" system;
 - "Multiplayer Rewards" rebalanced due with change in "Influence" system;
 - "Trading Prices" slightly rebalanced due with change in "Influence" system.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~ Skills rebalance ~~~~~~~~~~~
+----- Cardio -> ACROBATICS (GYMNASTICS, PROWESS):
+- Removed flip (Dodge farther and faster [DODGE]) [flip with a backpack - looool].
+
+----- Wits -> SCOUTING (SCAVENGING, TACTICS, VIGILANCE):
+- Removed "Enemy Detection Range".
+
+----- Shooting Skills:
+- "Reload Speed" has been replaced by "Reload Time" for better perception 
+      ("+50% Reload Speed" = "-33% Reload Time" in the vanilla version);
+- The maximum value of "Reload Time" = -40% for all shooting specializations 
+      (buff +7%, but nerf for Gunslinging);
+- Removed: Autoaim (Gunslinging), Penetrate All Enemy (Sharpshooting), 
+      ASSAULT Firearm Knockdown replace to Impact.
+
+----- GUNSLINGING (max):
+  - A kick when aiming (like Assault perk);
+  - Reload Time -40%;
+  - Firearm Sway -40%;
+  - Firearm Recoil -40%;
+  - Firearm Knockdown +15% (at maximum level).
+
+----- SHARPSHOOTING (max):
+  - A kick when aiming (like Assault perk);
+  - Reload Time -40%;
+  - Firearm Sway -50%;
+  - Firearm Recoil -25%;
+  - Firearm Dismemberment +30% (extended to all 8 levels).
+
+----- ASSAULT (max):
+  - A kick when aiming;
+  - Reload Time -40%;
+  - Firearm Sway -25%;
+  - Firearm Recoil -50%;
+  - Firearm Impact +30% (extended to all 8 levels).
+
+----- WARFIGHTING (max):
+  - A kick when aiming (like Assault perk);
+  - Reload Time -40%;
+  - Firearm Sway -50%;
+  - Firearm Recoil -50%;
+  - Firearm Impact +30% (extended to all 8 levels);
+  - Firearm Dismemberment +30% (extended to all 8 levels);
+  - Firearm Knockdown +15% (at maximum level).
 
 |=======================================|
 |=======================================|
@@ -109,55 +153,9 @@ Makes the game difficult... In its own way...
   ~ Reduced "Influence" cost for travel to other base;
   ~ "Standing" rebalance due with change in "Influence" system;
   ~ "Multiplayer Rewards" rebalance due with change in "Influence" system;
-  ~ Green Zone ambient spawns like at Standart Zone;
+  ~ Green Zone ambient spawns like at Standard Zone;
+  ~ Shooting, Cardio and Wits specializations rebalance;
   + Rebalanced Heavy Melee Weapon.
-  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-  ~~~~~~~~~~ Skills rebalance ~~~~~~~~~~
-
-  ~~~~~ Cardio -> ACROBATICS (GYMNASTICS, PROWESS):
-  - Removed flip (Dodge farther and faster [DODGE]) [flip with a backpack - looool].
-
-  ~~~~~ Wits -> SCOUTING (SCAVENGING, TACTICS, VIGILANCE):
-  - Removed "Enemy Detection Range".
-
-  \\\\\ Shooting Skills \\\\\
-  — "Reload Speed" has been replaced by "Reload Time" for better perception 
-    ("+50% Reload Speed" = "-33% Reload Time" in the vanilla version);
-  — The maximum value of "Reload Time" = -40% for all shooting specializations 
-    (buff +7%, but nerf for Gunslinging);
-  — Removed: Autoaim (Gunslinging), Penetrate All Enemy (Sharpshooting), 
-    ASSAULT Firearm Knockdown replace to Impact.
-
-  -— GUNSLINGING (max) —-
-  - A kick when aiming (like Assault perk);
-  - Reload Time -40%;
-  - Firearm Sway -40%;
-  - Firearm Recoil -40%;
-  - Firearm Knockdown +15% (at maximum level).
-
-  -— SHARPSHOOTING (max) —-
-  - A kick when aiming (like Assault perk);
-  - Reload Time -40%;
-  - Firearm Sway -50%;
-  - Firearm Recoil -25%;
-  - Firearm Dismemberment +30% (extended to all 8 levels).
-
-  -– ASSAULT (max) —-
-  - A kick when aiming;
-  - Reload Time -40%;
-  - Firearm Sway -25%;
-  - Firearm Recoil -50%;
-  - Firearm Impact +30% (extended to all 8 levels).
-
-  -— WARFIGHTING (max) —-
-  - A kick when aiming (like Assault perk);
-  - Reload Time -40%;
-  - Firearm Sway -50%;
-  - Firearm Recoil -50%;
-  - Firearm Impact +30% (extended to all 8 levels);
-  - Firearm Dismemberment +30% (extended to all 8 levels);
-  - Firearm Knockdown +15% (at maximum level).
-  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 |||--- 03 july 2020 --- [v 1.2.5, +1.2.6f]
   ~ "Shifted Day light - 18day 6night" by SerDeliac (integrated);
@@ -198,10 +196,10 @@ Makes the game difficult... In its own way...
         [I hope in the future this will be redone for the quest]
   + Client-side Active Characters not getting Fatigue.
 
-|||--- 10 july 2020 --- [v 1.5.12]
+|||--- 10 july 2020 --- [v 1.5.12, +1.5.13]
   ~ Infestation rebalance (again);
   ~ Reduced getting "Influence" from missions (-80%).
-
-///--- ?? july 2020 --- [NOT UPLOADED, WORK IN PROGRESS]
-  ~ Reduced getting "Influence" from more sources -80% => -90%; [done]
-  ~ Reduced Plague Samples drop. [done]
+  + Reduced getting "Influence" from more sources -80% => -90%;
+  + Reduced Plague Samples drop on each difficulty (like Nightmare);
+  + Max population on Green\Standard\Dread Zone be increased;
+  + Host-side Player-controlled Сharacters take damage on Dread and Nightmare Zone was returned to vanilla state.
