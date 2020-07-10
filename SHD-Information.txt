@@ -1,4 +1,4 @@
-"Some Hard Days" by kERHUS v1.4.12
+"Some Hard Days" by kERHUS v1.5.12
 [Based on "Dead End Heaven" by TheNeru]
 Makes the game difficult... In its own way...
 
@@ -101,7 +101,7 @@ Makes the game difficult... In its own way...
 |||--- 30 june 2020 --- [v 1.2.2]
   ~ Update for 396410.
 
-|||--- 02 july 2020 --- [v 1.3.3, +1.3.4]
+|||--- 02 july 2020 --- [v 1.2.3, +1.2.4]
   ~ Added Feral Pack, Bloater Pod, Screamer Choir hordes on All Difficulty.
   ~ Reduced getting "Influence" from more sources (-80%) [to make trading a more important part of the game];
   ~ Reduced "Influence" cost for travel to other base;
@@ -157,12 +157,12 @@ Makes the game difficult... In its own way...
   - Firearm Knockdown +15% (at maximum level).
   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-|||--- 03 july 2020 --- [v 1.3.5, +1.3.6]
+|||--- 03 july 2020 --- [v 1.2.5, +1.2.6]
   ~ "Shifted Day light - 18day 6night" by SerDeliac (integrated);
   ~ The trunk of vehicles is tripled.
   + Small Fixes.
 
-|||--- 06 july 2020 --- [v 1.4.7]
+|||--- 06 july 2020 --- [v 1.3.7]
   ~ REMOVED: Craft "Enhanced Bandage";
   ~ Rebalance of "Enhanced Plague Cure" craft (water and knowledge of pharmacology required);
   ~ Vehicle Loudness increase (+50%);
@@ -173,6 +173,7 @@ Makes the game difficult... In its own way...
   ~ +4 Beds ("Changing of the Guard" buff);
 
 |||--- 07 july 2020 --- [v 1.4.8, +1.4.9]
+  ~ Crouch Sprinting available regardless of skill (DEH side);
   ~ Plague Hearth rebalanced (HP +3000%[DEH] => +500% [nerf, but buff relative to vanilla] / Resist close to vanilla);
   ~ Infestation rebalanced (more Zeds, their variations);
   ~ Scaling major rebalanced;
@@ -181,11 +182,10 @@ Makes the game difficult... In its own way...
   ~ Zeds scream chance and loudness rebalance;
   ~ Debuff to construction cost on each difficulty (like Dread Zone);
   ~ Energy Consumption for use melee weapons -20%, finisher move -25% and running -15%;
-  ~ Crouch Sprinting available regardless of skill (DEH side);
   ~ Host-side Player-controlled Сharacters take increased damage in Nightmare Zone +70% => +60%.
   + Client-side active Characters take reduced damage on each difficulty (-20%). [Reason: Bad Sync]
 
-|||--- 09 july 2020 --- [v 1.4.10, +1.4.11]
+|||--- 09 july 2020 --- [v 1.5.10, +1.5.11]
   ~ REMOVED: Blood Ferals take less headshots to kill (DEH side);
   ~ "Prestige to Influence" by kERHUS (integrated);
   ~ Blood Ferals: down chance from Heavy Melee Weapons +50%;
@@ -196,6 +196,6 @@ Makes the game difficult... In its own way...
         [I hope in the future this will be redone for the quest]
   + Client-side Active Characters not getting Fatigue.
   
-|||--- 10 july 2020 --- [v 1.4.12]
+|||--- 10 july 2020 --- [v 1.5.12]
   ~ Infestation rebalance (again);
   ~ Reduced getting "Influence" from missions (-80%).
