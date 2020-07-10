@@ -86,7 +86,8 @@ Makes the game difficult... In its own way...
 
   ~ The trunk of vehicles rebalance;
   ~ Penetration rebalance on all weapons;
-  ~ All weapons have durability, "Weapons without durability in the past" lose it more slowly.
+  ~ All weapons have durability, "Weapons without durability in the past" lose it more slowly;
+  ~ Reduced Plague Samples drop. (Done, not uploaded)
 
 |=======================================|
 |=======================================|
