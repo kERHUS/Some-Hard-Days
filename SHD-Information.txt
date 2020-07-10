@@ -157,6 +157,8 @@ Makes the game difficult... In its own way...
   - Firearm Knockdown +15% (at maximum level).
   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+|||-- v Release.DEHside.SHDside --
+|||-------------------------------
 |||--- 03 july 2020 --- [v 1.2.5, +1.2.6f]
   ~ "Shifted Day light - 18day 6night" by SerDeliac (integrated);
   ~ The trunk of vehicles is tripled.
@@ -195,7 +197,7 @@ Makes the game difficult... In its own way...
   ~ For full effect "Plague Toxin Distiller + Bloater Glands + Plague Busters" push the button "Enable Bloater Harvest for mods" in Community Editor. 
         [I hope in the future this will be redone for the quest]
   + Client-side Active Characters not getting Fatigue.
-  
+
 |||--- 10 july 2020 --- [v 1.5.12]
   ~ Infestation rebalance (again);
   ~ Reduced getting "Influence" from missions (-80%).
