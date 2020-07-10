@@ -74,7 +74,7 @@ Makes the game difficult... In its own way...
      Dread Zone +30% => +40%, Nightmare Zone +50% => +60%.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ~~~~~~~~ "Influence" Rebalance ~~~~~~~~
-- Reduced getting "Influence" from more sources (-80%) [to make trading a more important part of the game];
+- Reduced getting "Influence" from all sources (-80%) [to make trading a more important part of the game];
 - Reduced "Influence" cost for travel to other base;
 - "Standing" rebalanced due with change in "Influence" system;
 - "Multiplayer Rewards" rebalanced due with change in "Influence" system;
@@ -87,7 +87,6 @@ Makes the game difficult... In its own way...
   ~ The trunk of vehicles rebalance;
   ~ Penetration rebalance on all weapons;
   ~ All weapons have durability, "Weapons without durability in the past" lose it more slowly;
-  ~ Reduced Plague Samples drop. (Done, not uploaded)
 
 |=======================================|
 |=======================================|
@@ -202,3 +201,7 @@ Makes the game difficult... In its own way...
 |||--- 10 july 2020 --- [v 1.5.12]
   ~ Infestation rebalance (again);
   ~ Reduced getting "Influence" from missions (-80%).
+
+///--- ?? july 2020 --- [NOT UPLOADED, WORK IN PROGRESS]
+  ~ Reduced getting "Influence" from all sources -80% => -90%; [done]
+  ~ Reduced Plague Samples drop. [done]
