@@ -48,6 +48,7 @@ Makes the game difficult... In its own way...
 - Revised stacks of Ammo, Gas Cans and Repair Kits;
 - More effective to Gas Can and Repair Kits;
 - Heavy Melee Weapons rebalance (Durability++, Lethality++, etc);
+- Vehicle Loudness increase (+30%);
 - The trunk of Vehicles is tripled;
 - Plague Toxin Distiller can now persist in main game and Heartland;
 - Plague Toxin Distiller added in Prestige Trader Shop-list (1200 influence);
@@ -55,7 +56,6 @@ Makes the game difficult... In its own way...
 - For full effect "Plague Toxin Distiller + Bloater Glands + Plague Busters" push "Enable Bloater Harvest for mods" in Community Editor;
 - All weapons have durability, "Weapons without durability in the past" lose it more slowly;
 - Penetration rebalance on all weapons.
-- Vehicle Loudness increase (+30%);
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ~~~~~~~~~~~~~~ Scenario ~~~~~~~~~~~~~~~
 - Green Zone ambient spawn like Standard Zone;
