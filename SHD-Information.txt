@@ -128,9 +128,7 @@ Makes the game difficult... In its own way...
 |=======================================|
 |============== PLANS ==================|
 
-  ~ The trunk of vehicles rebalance;
-  ~ Penetration rebalance on all weapons;
-  ~ All weapons have durability, "Weapons without durability in the past" lose it more slowly;
+N\A
 
 |=======================================|
 |=======================================|
@@ -198,8 +196,15 @@ Makes the game difficult... In its own way...
 
 |||--- 10 july 2020 --- [v 1.5.12, +1.5.13]
   ~ Infestation rebalance (again);
-  ~ Reduced getting "Influence" from missions (-80%).
+  ~ Reduced getting "Influence" from missions -80%.
   + Reduced getting "Influence" from more sources -80% => -90%;
   + Reduced Plague Samples drop on each difficulty (like Nightmare);
   + Max population on Green\Standard\Dread Zone be increased;
   + Host-side Player-controlled Сharacters take damage on Dread and Nightmare Zone was returned to vanilla state.
+
+///--- ?? july 2020 --- [NOT UPLOADED, WORK IN PROGRESS]
+  ~ Reduced Plague Samples drop -25% => -34%; (done)
+  ~ REMOVED: Crossbow penetration; (done)
+  ~ Penetration rebalance on all weapons;
+  ~ All weapons have durability, "Weapons without durability in the past" lose it more slowly;
+  ~ The trunk of vehicles rebalance;
