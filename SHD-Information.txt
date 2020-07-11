@@ -207,34 +207,38 @@ N\A
   ~ Penetration rebalance on all weapons: 
       [For example: 100% = 1 zeds penetrate \\\ 133% = 1 zeds penetrate 100% + 1 zeds 33% chance to penetrate]
 
-     == Cal   | Sniper Rifle | Assault Rifle | Revolver | Pistol | 
-     -- .50   | 500          | 200           |          | 60     |
-     -- 5.56  | 333          | 145           | 100      | 55     |
-     -- 7.62  | 266          | 130           | 100      | 40     |
-     -- CLEO  | 233          | 110           | 100      | 40     |
-     -- .44   | 175          | 55            | 100      | 33     |
-     -- 9mm   | 150          | 45            | 100      | 15     |
-     -- .45   | 133          | 33            | 100      | 0      |
-     -- .357  | 75           | 15            | 100      | 0      |
-     -- .22   | 0            | 0             | 0        | 0      |
+     == Cal   | Sniper Rifle | Assault Rifle |
+     -- .50   | 500          | 200           |
+     -- 5.56  | 333          | 145           |
+     -- 7.62  | 266          | 130           |
+     -- CLEO  | 233          | 110           |
+     -- .44   | 175          | 55            |
+     -- 9mm   | 150          | 45            |
+     -- .45   | 133          | 33            |
+     -- .357  | 75           | 15            |
+     -- .22   | 0            | 0             |
 
      == Exceptions:
-     -- AKs74u Valentine          | 100 => 80
-     -- Network DIY Assault Rifle | 100 => 125
-     -- Masterwork Assault Rifle  | 100 => 130
-     -- GSG-W                     | 100 => 140
-     -- MP5A2 Spec Ops            | 0   => 55
-     -- Spec Ops Vector SMG       | 0   => 45
-     -- MAC-V                     | 0
+     -- AKs74u Valentine          |  100 => 80
+     -- Network DIY Assault Rifle |  100 => 125
+     -- Masterwork Assault Rifle  |  100 => 130
+     -- GSG-W                     |  100 => 140
+     -- MP5A2 Spec Ops            |    0 => 55
+     -- Spec Ops Vector SMG       |    0 => 45
+     -- MAC-V                     |    0
+     -- CLEO Blast Rifle          | 9900 => 500
+     -- CLEO Heavy Sniper         | 9900 => 500
 
      == Shotguns: 
-     -- 930 SPX                 | 50   => 70  |
-     -- AA-12                   | 50   => 75  |
-     -- RTX Cyclone (+tactical) | 50   => 65  |
+     -- 930 SPX                 |   50 => 70  |
+     -- AA-12                   |   50 => 75  |
+     -- RTX Cyclone (+tactical) |   50 => 65  |
      -- CLEO (Assault) Shotgun  | 1000 => 300 |
-     -- KSG                     | 0    => 50
+     -- KSG                     |    0 => 50  |
+     -- Model 870               |    0 => 50  |
+     -- 870 Shawed-Off          |    0 => 35  |
 
-
+     == Pistols and Revolvers without rebalance;
      == REMOVED: Crossbow penetration; (done)
   ~ All weapons have durability, "Weapons without durability in the past" lose it more slowly;
   ~ The trunk of vehicles rebalance;
