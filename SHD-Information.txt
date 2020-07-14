@@ -250,3 +250,8 @@ Makes the game difficult... In its own way...
      == Pistols and Revolvers without rebalance;
      == REMOVED: Crossbow penetration;
   ~ All weapons have durability, "Weapons without durability in the past" lose it more slowly.
+
+///--- ?? july 2020 --- [NOT UPLOADED, WORK IN PROGRESS]
+  ~ REMOVED: Embedded Altered Rucksacks [DEH side]; (done)
+  ~ Plague Hearth resist rebalance; (done)
+  ~ Ammo stack size rebalance; (done)
