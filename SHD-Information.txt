@@ -10,19 +10,15 @@ Makes the game difficult... In its own way...
 ~ Plague Heart can spawn up to 2 Blood Ferals max;*
 ~ Increased Plague Heart Cloud area;
 ~ Plague Heart Burst and Cloud events now attract zombies;
-~ Altered Plague Heart Drops.
- --- [Updated 06-13-20] ---
+~ Altered Plague Heart Drops;
 ~ Bloater Glands can now persist in main game and Heartland;
 ~ Plague Busters can now persist in main game and Heartland;
 ~ Plague Hearts can now drop Enhanced Plague Cure;
 ~ Plague Hearts can now drop Scentblocks;
-~ Added several more guns in the Plague Heart drops.
---- [Updated 06-22-20] ---
+~ Added several more guns in the Plague Heart drops;
 ~ Survivors will now always start with 4 pockets;
-~ Time to recover from fatigue reduced.
---- [Updated 06-28-20] ---
-~ Can craft "Enhanced Plague Cure" with Infirmary 3 and Field Hospital.* (Water and knowledge of pharmacology required)
---- [Updated 07-07-20] ---
+~ Time to recover from fatigue reduced;
+~ Can craft "Enhanced Plague Cure" with Infirmary 3 and Field Hospital;* (Water and knowledge of pharmacology required)
 ~ Crouch Sprinting available regardless of skill.
 
 =======================================
@@ -62,7 +58,6 @@ Makes the game difficult... In its own way...
 - Fuel Efficiency higher (like Green Zone);
 - Reduced the rate of Fatigue on all difficulties (like Green Zone);
 - Energy Consumption for use melee weapons, finisher move and running reduced (-15-20%);
-- Reduced Plague Samples drop on each difficulty (like Nightmare);
 - Increased the volume of the gunshot on Standard and Dread zone (like Nightmare);
 - Plague Hearts are hidden (not visible on the map) on each difficulty (like Nightmare);
 - +4 Beds ("Changing of the Guard" buff);
@@ -79,7 +74,7 @@ Makes the game difficult... In its own way...
 - Reduced "Influence" cost for travel to other base;
 - "Standing" rebalanced due with change in "Influence" system;
 - "Multiplayer Rewards" rebalanced due with change in "Influence" system;
-- "Trading Prices" slightly rebalanced due with change in "Influence" system.
+- "Trading Prices" rebalanced due with change in "Influence" system.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ~~~~~~~~~~ Skills rebalance ~~~~~~~~~~~
 ----- Cardio -> ACROBATICS (GYMNASTICS, PROWESS):
