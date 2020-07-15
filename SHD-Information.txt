@@ -1,4 +1,4 @@
-"Some Hard Days" by kERHUS v1.5.14
+"Some Hard Days" by kERHUS v1.6.15
 [Based on "Dead End Heaven" by TheNeru]
 Makes the game difficult... In its own way...
 
@@ -20,8 +20,7 @@ Makes the game difficult... In its own way...
 ~ Added several more guns in the Plague Heart drops.
 --- [Updated 06-22-20] ---
 ~ Survivors will now always start with 4 pockets;
-~ Time to recover from fatigue reduced;
-~ Embedded Altered Rucksacks [DEH Ver].
+~ Time to recover from fatigue reduced.
 --- [Updated 06-28-20] ---
 ~ Can craft "Enhanced Plague Cure" with Infirmary 3 and Field Hospital.* (Water and knowledge of pharmacology required)
 --- [Updated 07-07-20] ---
@@ -45,6 +44,7 @@ Makes the game difficult... In its own way...
 - Volume of zombie screams increased, chance reduced;
 - Revised Blood Bloater cloud (nerf plague infection at half);
 - Infestation rebalanced (more zeds, their variations);
+- Plague Hearth rebalanced (+500% HP, more resistance to fire and firearm);
 - Revised stacks of Ammo, Gas Cans and Repair Kits;
 - More effective to Gas Can and Repair Kits;
 - Heavy Melee Weapons rebalance (Durability++, Lethality++, etc);
@@ -210,7 +210,6 @@ Makes the game difficult... In its own way...
   ~ Vehicle Loudness rebalance: 50% => 30% (not scenario side);
   ~ Penetration rebalance on all weapons: 
       [For example: 100% = 1 zeds penetrate \\\ 133% = 1 zeds penetrate 100% + 1 zeds 33% chance to penetrate]
-
      == Cal   | Sniper Rifle | Assault Rifle |
      -- .50   | 500          | 200           |
      -- 5.56  | 333          | 145           |
@@ -221,7 +220,6 @@ Makes the game difficult... In its own way...
      -- .45   | 120          | 33            |
      -- .357  | 75           | 15            |
      -- .22   | 0            | 0             |
-
      == Exceptions:
      -- AKs74u Valentine          |  100 => 80  |
      -- Network DIY Assault Rifle |  100 => 125 |
@@ -236,7 +234,6 @@ Makes the game difficult... In its own way...
      -- SOCOM-II                  |  100 => 233 |
      -- M1903A4 Sniper Rifle      |  100 => 175 |
      -- Classic SKS Rifle         |  100 => 175 |
-
      == Shotguns, 0 => 50, exceptions: 
      -- CLEO (Assault) Shotgun    | 1000 => 300 |
      -- DEVGRU\ RTX Wolverine\    |   50 => 75  |
@@ -246,13 +243,17 @@ Makes the game difficult... In its own way...
      -- RTX Cyclone (+tactical)   |   50 => 65  |
      -- 870 Shawed-Off            |    0 => 35  |
      -- M97 Trench Gun            |    0 => 33  |
-
      == Pistols and Revolvers without rebalance;
      == REMOVED: Crossbow penetration;
   ~ All weapons have durability, "Weapons without durability in the past" lose it more slowly.
 
-///--- ?? july 2020 --- [NOT UPLOADED, WORK IN PROGRESS]
-  ~ REMOVED: Embedded Altered Rucksacks [DEH side]; (done)
-  ~ Plague Hearth resist rebalance; (done)
-  ~ Ammo stack size rebalance; (done)
-  ~ Fix some issue; (done)
+|||--- 15 july 2020 --- [v 1.6.15]
+  ~ REMOVED: Embedded Altered Rucksacks [DEH side];
+  ~ Plague Hearth resist rebalance (more resistance to fire and firearm);
+  ~ Ammo stack size rebalance;
+  ~ Heavy Melee Weapon revised. For example:
+    -- Bladed Melee weapons = Dismember + Lethality | (vanila)
+    -- Blunt Melee weapons = Impact + Knockdown | (vanila)
+    -- Heavy Melee weapons = Impact + Knockdown + Lethality | (SHD)
+    == Exceptions - Heavy Melee weapons with a blade (like Splitting Maul, Guan-Dao);
+  ~ Fix some issue.
