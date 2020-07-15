@@ -255,3 +255,4 @@ Makes the game difficult... In its own way...
   ~ REMOVED: Embedded Altered Rucksacks [DEH side]; (done)
   ~ Plague Hearth resist rebalance; (done)
   ~ Ammo stack size rebalance; (done)
+  ~ Fix some issue; (done)
