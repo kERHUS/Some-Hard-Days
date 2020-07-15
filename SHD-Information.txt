@@ -251,9 +251,10 @@ Makes the game difficult... In its own way...
   ~ Plague Hearth resist rebalance (more resistance to fire and firearm);
   ~ Ammo stack size rebalance;
   ~ Heavy Melee Weapon revised. For example:
-    -- Bladed Melee weapons = Dismember + Lethality | (vanila)
-    -- Blunt Melee weapons = Impact + Knockdown | (vanila)
-    -- Heavy Melee weapons = Blunt Melee weapons | (vanila)
-    !-- Heavy Melee weapons = Impact + Knockdown + Lethality | (SHD)
-    == Exceptions - Heavy Melee weapons with a blade (like Splitting Maul, Guan-Dao);
+    -- Bladed Melee weapons = Dismember(+++) & Lethality(+++)                    | (vanila)
+    -- Blunt Melee weapons = Impact(+++) & Knockdown(+++)                        | (vanila)
+    -- Heavy Melee weapons = Impact(++++) & Knockdown(++++)                      | (vanila)
+    !-- Heavy Melee weapons = Impact(++++) & Knockdown(++++) & Lethality(+++)    | (SHD)
+    == Exceptions - Heavy Melee weapons with a blade (like Splitting Maul, Guan-Dao):
+    !-- Heavy-Bladed Melee weapons = Impact(+++) & Knockdown(+++) & Dismember(+++) & Lethality(++++) | (SHD);
   ~ Fix some issue.
