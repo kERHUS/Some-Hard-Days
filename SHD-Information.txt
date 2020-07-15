@@ -6,7 +6,6 @@ Makes the game difficult... In its own way...
 
 =======================================
 =========== Taken from DEH ============
-~ Increased Plague Heart Health;* (+500%)
 ~ Plague Heart can spawn Special Infected when attacked (Bloater, Feral);
 ~ Plague Heart can spawn up to 2 Blood Ferals max;*
 ~ Increased Plague Heart Cloud area;
