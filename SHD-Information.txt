@@ -253,6 +253,7 @@ Makes the game difficult... In its own way...
   ~ Heavy Melee Weapon revised. For example:
     -- Bladed Melee weapons = Dismember + Lethality | (vanila)
     -- Blunt Melee weapons = Impact + Knockdown | (vanila)
-    -- Heavy Melee weapons = Impact + Knockdown + Lethality | (SHD)
+    -- Heavy Melee weapons = Blunt Melee weapons | (vanila)
+    !-- Heavy Melee weapons = Impact + Knockdown + Lethality | (SHD)
     == Exceptions - Heavy Melee weapons with a blade (like Splitting Maul, Guan-Dao);
   ~ Fix some issue.
